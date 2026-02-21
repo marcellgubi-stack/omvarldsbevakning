@@ -86,9 +86,13 @@ def brave_search(query: str) -> list[dict]:
         "freshness": "week"
     }
 
+    try:
     r = requests.get(url, headers=headers, params=params, timeout=30)
     r.raise_for_status()
     data = r.json()
+except Exception as e:
+    print(f"[WARN] Brave Search misslyckades för query='{query}': {e}")
+    return []
 
     out = []
     for it in data.get("web", {}).get("results", [])[:10]:
