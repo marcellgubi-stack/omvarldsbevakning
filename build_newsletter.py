@@ -242,9 +242,28 @@ def main():
         print("Inga items hittades. Skrev en tom sida.")
         return
 
+    try:
     newsletter_md = build_newsletter(items)
-    write_docs(newsletter_md)
-    print("Klart: docs/index.md uppdaterad.")
+except Exception as e:
+    # Fallback: publicera en enkel sida så att workflowet inte failar
+    print(f"[WARN] Kunde inte skapa AI-sammanfattning: {e}")
+    top_links = items[:20]
+    lines = [
+        "# Veckans omvärldsbevakning (AI & ledarskap)",
+        "",
+        "## Status",
+        "⚠️ Kunde inte generera AI-sammanfattning just nu (t.ex. kvot/billing/rate limit).",
+        "",
+        "## Länkar som hittades",
+    ]
+    for it in top_links:
+        lines.append(
+            f"- **{it.get('title','(utan titel)')}** ({it.get('source','källa')}) – {it.get('url','')}"
+        )
+    newsletter_md = "\n".join(lines)
+
+write_docs(newsletter_md)
+print("Klart: docs/index.md uppdaterad.")
 
 
 if __name__ == "__main__":
