@@ -1,0 +1,5 @@
+https://openai.com/index/rss.xml
+https://www.microsoft.com/en-us/research/feed/
+https://ai.googleblog.com/feeds/posts/default?alt=rss
+https://www.technologyreview.com/feed/
+https://www.theverge.com/rss/index.xml
