@@ -10,13 +10,10 @@ import feedparser
 # Inställningar (enkla att ändra senare)
 # ==========
 DAYS_BACK = 7
-MAX_ITEMS = 30  # hur många länkar vi skickar till AI för syntes
+MAX_ITEMS = 30
 LANG = "sv"
 
-# Välj modell via GitHub Secret/Env (valfritt).
-# Default är en billigare, snabb modell. Du kan byta till t.ex. "gpt-4o" senare.
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
-
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY")
 
@@ -27,11 +24,7 @@ def now_stockholm():
 
 def read_lines(path: str) -> list[str]:
     with open(path, "r", encoding="utf-8") as f:
-        return [
-            ln.strip()
-            for ln in f.readlines()
-            if ln.strip() and not ln.strip().startswith("#")
-        ]
+        return [ln.strip() for ln in f.readlines() if ln.strip() and not ln.strip().startswith("#")]
 
 
 def fetch_rss_items(feed_urls: list[str]) -> list[dict]:
@@ -47,12 +40,15 @@ def fetch_rss_items(feed_urls: list[str]) -> list[dict]:
             link = (e.get("link") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
 
-            # Datum (om det finns)
             published_dt = None
             if e.get("published_parsed"):
-                published_dt = dt.datetime(*e.published_parsed[:6], tzinfo=dt.timezone.utc).astimezone(tz.gettz("Europe/Stockholm"))
+                published_dt = dt.datetime(*e.published_parsed[:6], tzinfo=dt.timezone.utc).astimezone(
+                    tz.gettz("Europe/Stockholm")
+                )
             elif e.get("updated_parsed"):
-                published_dt = dt.datetime(*e.updated_parsed[:6], tzinfo=dt.timezone.utc).astimezone(tz.gettz("Europe/Stockholm"))
+                published_dt = dt.datetime(*e.updated_parsed[:6], tzinfo=dt.timezone.utc).astimezone(
+                    tz.gettz("Europe/Stockholm")
+                )
 
             if not title or not link:
                 continue
@@ -71,7 +67,9 @@ def fetch_rss_items(feed_urls: list[str]) -> list[dict]:
 
 
 def brave_search(query: str) -> list[dict]:
-    """Valfritt: om BRAVE_API_KEY saknas hoppar vi över webbsök."""
+    """Valfritt: om BRAVE_API_KEY saknas hoppar vi över webbsök.
+    Robust: om Brave failar fortsätter vi med RSS ändå.
+    """
     if not BRAVE_API_KEY:
         return []
 
@@ -87,12 +85,12 @@ def brave_search(query: str) -> list[dict]:
     }
 
     try:
-    r = requests.get(url, headers=headers, params=params, timeout=30)
-    r.raise_for_status()
-    data = r.json()
-except Exception as e:
-    print(f"[WARN] Brave Search misslyckades för query='{query}': {e}")
-    return []
+        r = requests.get(url, headers=headers, params=params, timeout=30)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        print(f"[WARN] Brave Search misslyckades för query='{query}': {e}")
+        return []
 
     out = []
     for it in data.get("web", {}).get("results", [])[:10]:
@@ -112,7 +110,6 @@ except Exception as e:
 
 
 def stable_id(item: dict) -> str:
-    """Skapar en stabil identifierare så vi kan ta bort dubletter."""
     u = (item.get("url") or "").split("#")[0].strip().lower()
     t = (item.get("title") or "").strip().lower()
     base = (u + "|" + t).encode("utf-8")
@@ -133,7 +130,7 @@ def dedupe(items: list[dict]) -> list[dict]:
 
 def openai_summarize(items: list[dict]) -> str:
     if not OPENAI_API_KEY:
-        raise RuntimeError("OPENAI_API_KEY saknas. Lägg den som GitHub Secret senare.")
+        raise RuntimeError("OPENAI_API_KEY saknas. Lägg den som GitHub Secret.")
 
     system = f"""
 Du är en redaktör som skriver ett veckobrev om AI och ledarskap på {LANG}.
@@ -182,7 +179,6 @@ Regler:
     resp.raise_for_status()
     data = resp.json()
 
-    # Robust hämtning av text (Responses API kan variera lite i form)
     if isinstance(data, dict) and data.get("output_text"):
         return data["output_text"].strip()
 
@@ -212,8 +208,6 @@ def main():
         items += brave_search(q)
 
     items = dedupe(items)
-
-    # sortera lite på datum (de som saknar datum hamnar sist)
     items.sort(key=lambda x: x.get("published", ""), reverse=True)
 
     newsletter_md = openai_summarize(items)
