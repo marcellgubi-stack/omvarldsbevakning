@@ -179,12 +179,14 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
 
 
 def build_newsletter(items: List[Dict[str, Any]]) -> str:
+    # OBS: Ingen "# ..." rubrik här. Temat visar redan sidans titel.
     system = f"""
 Du är en redaktör som skriver ett veckobrev om AI och ledarskap på {LANG}.
 Skriv kort, tydligt och användbart.
 
 Struktur (i Markdown):
-# Veckans omvärldsbevakning (AI & ledarskap)
+
+_Uppdaterad: YYYY-MM-DD_
 
 ## TL;DR
 - (3 bullets)
@@ -230,7 +232,7 @@ def main():
     items.sort(key=lambda x: x.get("published", ""), reverse=True)
 
     if not items:
-        write_docs("# Veckans omvärldsbevakning\n\nInga källor hittades denna vecka.")
+        write_docs("_Uppdaterad: " + now_stockholm().date().isoformat() + "_\n\n## Status\n\nInga källor hittades denna vecka.")
         print("Inga items hittades. Skrev en tom sida.")
         return
 
@@ -241,7 +243,7 @@ def main():
         print(f"[WARN] Kunde inte skapa AI-sammanfattning: {e}")
         top_links = items[:20]
         lines = [
-            "# Veckans omvärldsbevakning (AI & ledarskap)",
+            "_Uppdaterad: " + now_stockholm().date().isoformat() + "_",
             "",
             "## Status",
             "⚠️ Kunde inte generera AI-sammanfattning just nu (t.ex. kvot/billing/rate limit).",
