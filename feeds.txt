@@ -3,3 +3,30 @@ https://www.microsoft.com/en-us/research/feed/
 https://ai.googleblog.com/feeds/posts/default?alt=rss
 https://www.technologyreview.com/feed/
 https://www.theverge.com/rss/index.xml
+# --- Sverige: integritet, AI-tillsyn, beslut ---
+https://www.imy.se/nyheter/?epsremainingpath=rss
+https://www.imy.se/blogg/?epsremainingpath=rss
+https://www.imy.se/tillsyner/?epsremainingpath=rss
+
+# Riksdagen: beslut + dokumentflöden (bra för AI-policy/spårning)
+https://data.riksdagen.se/dokumentlista/?avd=dokument&doktyp=bet&beslutad=1&sort=beslutsdag&sortorder=desc&utformat=rss
+https://data.riksdagen.se/dokumentlista/?avd=dokument&doktyp=mot&sort=datum&sortorder=desc&utformat=rss
+https://data.riksdagen.se/dokumentlista/?avd=dokument&doktyp=prop&sort=datum&sortorder=desc&utformat=rss
+https://data.riksdagen.se/dokumentlista/?avd=dokument&doktyp=ip,fr,frs,ku-anm&sort=datum&sortorder=desc&utformat=rss
+
+# --- Standarder / säkerhet / governance ---
+https://www.nist.gov/news-events/news/rss.xml
+https://www.nist.gov/news-events/cybersecurity/rss.xml
+https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+https://www.nist.gov/blogs/taking-measure/rss.xml
+
+# --- Forskning (mycket volym – men bra bredd) ---
+https://rss.arxiv.org/rss/cs.AI
+https://rss.arxiv.org/rss/cs.LG
+https://rss.arxiv.org/rss/cs.CL
+https://rss.arxiv.org/rss/cs.CR
+
+# --- Nyhetskällor: AI / security / tech ---
+https://www.wired.com/feed/tag/ai/latest/rss
+https://www.wired.com/feed/category/security/latest/rss
+https://feeds.bbci.co.uk/news/technology/rss.xml
