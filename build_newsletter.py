@@ -9,7 +9,7 @@ import feedparser
 from dateutil import tz
 
 # =========================
-# ENKLA INSTÄLLNINGAR
+# INSTÄLLNINGAR
 # =========================
 DAYS_BACK = 7
 MAX_ITEMS = 30
@@ -98,7 +98,7 @@ def brave_search(query: str) -> List[Dict[str, Any]]:
     """
     Brave är valfritt:
     - saknas BRAVE_API_KEY -> returnerar []
-    - om Brave krånglar -> loggar varning och fortsätter (så RSS-nyhetsbrevet ändå byggs)
+    - Brave-strul -> loggar varning och fortsätter (så RSS ändå publiceras)
     """
     if not BRAVE_API_KEY:
         return []
@@ -143,16 +143,12 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
 
     req = {
         "model": OPENAI_MODEL,
-        # Typed content för Responses API
         "input": [
             {"role": "system", "content": [{"type": "input_text", "text": system_text}]},
             {"role": "user", "content": [{"type": "input_text", "text": user_text}]},
         ],
-        # Rätt format: objekt med type
         "text": {"format": {"type": "text"}},
-        # Viktigt: annars kan du få 400 om input blir för långt
         "truncation": "auto",
-        # Valfritt men ofta önskvärt i automationer
         "store": False,
     }
 
@@ -163,7 +159,6 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
         timeout=120,
     )
 
-    # Om det blir fel vill vi se varför direkt i Actions-loggen
     if resp.status_code >= 400:
         print("[ERROR] OpenAI API svarade med fel:")
         print(resp.text)
@@ -171,11 +166,9 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
     resp.raise_for_status()
     data = resp.json()
 
-    # Docs beskriver att output_text är den smidigaste vägen om den finns
     if isinstance(data, dict) and data.get("output_text"):
         return data["output_text"].strip()
 
-    # Fallback-parse
     text = ""
     for item in data.get("output", []):
         if item.get("type") == "message":
@@ -214,7 +207,6 @@ Regler:
         "items": items[:MAX_ITEMS],
     }
     user = json.dumps(payload, ensure_ascii=False)
-
     return call_openai_weekly_editor(system, user)
 
 
@@ -242,28 +234,28 @@ def main():
         print("Inga items hittades. Skrev en tom sida.")
         return
 
-   try:
-    newsletter_md = build_newsletter(items)
-except Exception as e:
-    # Fallback: publicera en enkel sida så att workflowet inte failar
-    print(f"[WARN] Kunde inte skapa AI-sammanfattning: {e}")
-    top_links = items[:20]
-    lines = [
-        "# Veckans omvärldsbevakning (AI & ledarskap)",
-        "",
-        "## Status",
-        "⚠️ Kunde inte generera AI-sammanfattning just nu (t.ex. kvot/billing/rate limit).",
-        "",
-        "## Länkar som hittades",
-    ]
-    for it in top_links:
-        lines.append(
-            f"- **{it.get('title','(utan titel)')}** ({it.get('source','källa')}) – {it.get('url','')}"
-        )
-    newsletter_md = "\n".join(lines)
+    # ✅ FAILSAFE: om OpenAI kvot/billing/429 strular -> publicera länkar ändå
+    try:
+        newsletter_md = build_newsletter(items)
+    except Exception as e:
+        print(f"[WARN] Kunde inte skapa AI-sammanfattning: {e}")
+        top_links = items[:20]
+        lines = [
+            "# Veckans omvärldsbevakning (AI & ledarskap)",
+            "",
+            "## Status",
+            "⚠️ Kunde inte generera AI-sammanfattning just nu (t.ex. kvot/billing/rate limit).",
+            "",
+            "## Länkar som hittades",
+        ]
+        for it in top_links:
+            lines.append(
+                f"- **{it.get('title','(utan titel)')}** ({it.get('source','källa')}) – {it.get('url','')}"
+            )
+        newsletter_md = "\n".join(lines)
 
-write_docs(newsletter_md)
-print("Klart: docs/index.md uppdaterad.")
+    write_docs(newsletter_md)
+    print("Klart: docs/index.md uppdaterad.")
 
 
 if __name__ == "__main__":
