@@ -242,7 +242,7 @@ def main():
         print("Inga items hittades. Skrev en tom sida.")
         return
 
-    try:
+   try:
     newsletter_md = build_newsletter(items)
 except Exception as e:
     # Fallback: publicera en enkel sida så att workflowet inte failar
