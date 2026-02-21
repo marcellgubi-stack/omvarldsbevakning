@@ -1,9 +1,10 @@
-# Veckans omvärldsbevakning (AI & ledarskap)
+_Uppdaterad: 2026-02-21_
 
 ## Status
 ⚠️ Kunde inte generera AI-sammanfattning just nu (t.ex. kvot/billing/rate limit).
 
 ## Länkar som hittades
+- **Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish** (The Verge) – https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox
 - **Stellantis is in a crisis of its own making** (The Verge) – https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations
 - **Anker’s X1 Pro shouldn’t exist, but I’m so glad it does** (The Verge) – https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1
 - **The best e-reader to buy right now** (The Verge) – https://www.theverge.com/23769068/best-ebook-readers
@@ -13,7 +14,6 @@
 - **Read Microsoft gaming CEO Asha Sharma&#8217;s first memo on the future of Xbox** (The Verge) – https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo
 - **Read Xbox chief Phil Spencer’s memo about leaving Microsoft** (The Verge) – https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo
 - **Xbox chief Phil Spencer is leaving Microsoft** (The Verge) – https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement
-- **Sarah Bond is leaving Xbox** (The Verge) – https://www.theverge.com/games/882281/xbox-sarah-bond-leaving-microsoft
 - **Exclusive eBook: The great Al hype correction of 2025** (MIT Technology Review) – https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/
 - **The Download: Microsoft’s online reality check, and the worrying rise in measles cases** (MIT Technology Review) – https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/
 - **Job titles of the future: Breast biomechanic** (MIT Technology Review) – https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
