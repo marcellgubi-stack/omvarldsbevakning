@@ -4,7 +4,7 @@ import hashlib
 import datetime as dt
 from typing import Any, Dict, List
 from urllib.parse import urlparse
-from collections import Counter
+from collections import Counter, defaultdict
 
 import requests
 import feedparser
@@ -14,15 +14,16 @@ from dateutil import tz
 # INSTÄLLNINGAR
 # =========================
 DAYS_BACK = 7
-MAX_ITEMS = 40                 # input till AI (större = mer bredd, men dyrare)
-MAX_SOURCE_LIST = 250          # hur många länkar vi listar på sources-sidan
+MAX_ITEMS_TO_AI = 40          # hur många (diversifierade) länkar vi skickar till AI
+MAX_PER_DOMAIN = 2            # hård gräns: max länkar per domän in i AI
+MAX_SOURCE_LIST = 300         # hur många länkar vi listar på sources-sidan
 LANG = "sv"
 
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY")
 
-# Vissa RSS:er är kinkiga med default user agent, så vi sätter en tydlig
+# RSS: vissa feeds kräver en tydlig user agent
 feedparser.USER_AGENT = "OmvarldsbevakningBot/1.0 (+https://github.com)"
 
 
@@ -66,6 +67,60 @@ def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return out
 
 
+def parse_iso_dt(s: str) -> dt.datetime:
+    # Tomma datum hamnar längst bak
+    if not s:
+        return dt.datetime(1970, 1, 1, tzinfo=dt.timezone.utc)
+    try:
+        return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except Exception:
+        return dt.datetime(1970, 1, 1, tzinfo=dt.timezone.utc)
+
+
+def select_diverse(items: List[Dict[str, Any]], max_total: int, max_per_domain: int) -> List[Dict[str, Any]]:
+    """
+    Hård diversitet:
+    - max_per_domain per domän
+    - round-robin över domäner
+    - sorterar varje domän på nyast först
+    """
+    buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    for it in items:
+        dom = it.get("domain") or domain_of(it.get("url", "")) or "unknown"
+        it["domain"] = dom
+        buckets[dom].append(it)
+
+    # sortera inom varje domän på publicerad tid (nyast först)
+    for dom in buckets:
+        buckets[dom].sort(key=lambda x: parse_iso_dt(x.get("published", "")), reverse=True)
+
+    # sortera domäner efter hur mycket de har (störst först)
+    domains = sorted(buckets.keys(), key=lambda d: len(buckets[d]), reverse=True)
+
+    picked: List[Dict[str, Any]] = []
+    per_dom = Counter()
+
+    # round-robin plock
+    made_progress = True
+    while len(picked) < max_total and made_progress:
+        made_progress = False
+        for dom in domains:
+            if len(picked) >= max_total:
+                break
+            if per_dom[dom] >= max_per_domain:
+                continue
+            if not buckets[dom]:
+                continue
+            picked.append(buckets[dom].pop(0))
+            per_dom[dom] += 1
+            made_progress = True
+
+    print(f"[DIVERSE] picked={len(picked)} domains={len([d for d,c in per_dom.items() if c>0])} max_per_domain={max_per_domain}")
+    top = per_dom.most_common(12)
+    print("[DIVERSE] per-domain:", ", ".join([f"{d}:{c}" for d,c in top]))
+    return picked
+
+
 # =========================
 # INSAMLING
 # =========================
@@ -78,7 +133,7 @@ def fetch_rss_items(feed_urls: List[str]) -> List[Dict[str, Any]]:
         feed_title = (d.feed.get("title") or "RSS").strip()
 
         kept = 0
-        for e in d.entries[:150]:
+        for e in d.entries[:200]:
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
@@ -110,7 +165,6 @@ def fetch_rss_items(feed_urls: List[str]) -> List[Dict[str, Any]]:
             )
             kept += 1
 
-        # Debug i Actions-loggen så vi ser vad som faktiskt hämtas
         print(f"[RSS] {url} -> entries={len(d.entries)} kept_last_{DAYS_BACK}d={kept}")
 
     return items
@@ -132,10 +186,10 @@ def brave_search(query: str) -> List[Dict[str, Any]]:
         print(f"[WARN] Brave Search misslyckades för query='{query}': {e}")
         return []
 
-    out: List[Dict[str, Any]] = []
     results = data.get("web", {}).get("results", [])[:10]
     print(f"[BRAVE] query='{query}' results={len(results)}")
 
+    out: List[Dict[str, Any]] = []
     for it in results:
         title = (it.get("title") or "").strip()
         link = (it.get("url") or "").strip()
@@ -156,13 +210,12 @@ def brave_search(query: str) -> List[Dict[str, Any]]:
 
 
 # =========================
-# OUTPUT: sources-sida (diagnos + transparens)
+# OUTPUT: sources-sida
 # =========================
 def write_sources_page(items: List[Dict[str, Any]]):
-    # Räkna domäner
     domains = [it.get("domain", "") for it in items if it.get("domain")]
     counts = Counter(domains)
-    top = counts.most_common(30)
+    top = counts.most_common(50)
 
     lines = [
         "---",
@@ -241,21 +294,18 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
     return text.strip()
 
 
-def build_newsletter(items: List[Dict[str, Any]]) -> str:
+def build_newsletter(diverse_items: List[Dict[str, Any]]) -> str:
     week = now_stockholm().date().isoformat()
 
     system = f"""
-Du är en redaktör som skriver ett veckobrev om AI och ledarskap på {LANG}.
-Skriv kort, tydligt och användbart.
+Du skriver ett veckobrev om AI & ledarskap på {LANG}.
+VIKTIGT: Inputen du får är redan diversifierad. Följ detta strikt:
+- "Utvalda länkar": 10–14 punkter
+- Max 2 länkar per domän
+- Visa domän i parentes efter varje länk
+- Undvik att ta flera länkar om exakt samma händelse
 
-VIKTIGT OM KÄLLOR:
-- Målet är bredd: välj länkar från så många olika domäner som möjligt.
-- I "Utvalda länkar": välj 10–14 länkar från MINST 8 olika domäner (om input räcker).
-- Max 2 länkar per domän.
-- Visa domän i parentes efter varje länk.
-- Om en domän dominerar i input (t.ex. riksdagen.se): ta med högst 2 därifrån och använd resten av platserna för andra domäner.
-
-Struktur (i Markdown):
+Struktur (Markdown):
 
 _Uppdaterad: {week}_
 
@@ -263,21 +313,17 @@ _Uppdaterad: {week}_
 - (3 bullets)
 
 ## Viktigaste teman
-- (3–5 bullets med 1–2 meningar vardera)
+- (3–5 bullets)
 
 ## Utvalda länkar
-Lista 10–14 länkar.
 Varje punkt: **Titel** – 1 mening varför det spelar roll. (domän) URL
 
 Avsluta med:
 ## Alla källor
-- Länk: sources.html
+- sources
 """.strip()
 
-    payload = {
-        "week_ending": week,
-        "items": items[:MAX_ITEMS],
-    }
+    payload = {"week_ending": week, "items": diverse_items}
     user = json.dumps(payload, ensure_ascii=False)
     return call_openai_weekly_editor(system, user)
 
@@ -294,44 +340,36 @@ def main():
 
     items: List[Dict[str, Any]] = []
     items += fetch_rss_items(feeds)
-
     for q in queries:
         items += brave_search(q)
 
     items = dedupe(items)
     items.sort(key=lambda x: x.get("published", ""), reverse=True)
 
-    # Skriv alltid sources-sidan så vi ser vad som faktiskt samlades in
     write_sources_page(items)
 
     if not items:
         write_docs("_Uppdaterad: " + now_stockholm().date().isoformat() + "_\n\n## Status\n\nInga källor hittades denna vecka.")
-        print("Inga items hittades. Skrev en tom sida.")
         return
 
-    # FAILSAFE: om OpenAI strular -> publicera länkar ändå
+    diverse = select_diverse(items, max_total=MAX_ITEMS_TO_AI, max_per_domain=MAX_PER_DOMAIN)
+
     try:
-        newsletter_md = build_newsletter(items)
+        newsletter_md = build_newsletter(diverse)
     except Exception as e:
         print(f"[WARN] Kunde inte skapa AI-sammanfattning: {e}")
-        top_links = items[:20]
+        top_links = diverse[:20]
         lines = [
             "_Uppdaterad: " + now_stockholm().date().isoformat() + "_",
             "",
             "## Status",
             "⚠️ Kunde inte generera AI-sammanfattning just nu.",
             "",
-            "## Länkar som hittades",
+            "## Länkar som hittades (diversifierat urval)",
         ]
         for it in top_links:
-            lines.append(
-                f"- **{it.get('title','(utan titel)')}** ({it.get('source','källa')}, {it.get('domain','')}) — {it.get('url','')}"
-            )
-        lines += [
-            "",
-            "## Alla källor",
-            "- sources.html",
-        ]
+            lines.append(f"- **{it.get('title','(utan titel)')}** ({it.get('domain','')}) — {it.get('url','')}")
+        lines += ["", "## Alla källor", "- sources"]
         newsletter_md = "\n".join(lines)
 
     write_docs(newsletter_md)
