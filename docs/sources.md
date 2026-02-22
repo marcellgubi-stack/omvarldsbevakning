@@ -1,0 +1,130 @@
+---
+title: Alla källor
+---
+
+_Uppdaterad: 2026-02-22_
+
+## Top-domäner i input
+
+- **riksdagen.se** — 41
+- **bbc.com** — 21
+- **wired.com** — 20
+- **theverge.com** — 10
+- **technologyreview.com** — 10
+- **nist.gov** — 4
+- **microsoft.com** — 2
+- **bbc.co.uk** — 1
+
+## Alla länkar (urval)
+
+Visar upp till 250 länkar som samlades in (efter dedupe).
+
+- **Arturia’s FX Collection 6 adds two new effects and a $99 intro version** (The Verge, theverge.com) — https://www.theverge.com/tech/882852/arturia-fx-collection-6
+- **Georgia says Elon Musk’s America PAC violated election law** (The Verge, theverge.com) — https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud
+- **Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT** (The Verge, theverge.com) — https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt
+- **The Pixel 10A and Soundcore Space One are just two of the best deals this week** (The Verge, theverge.com) — https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale
+- **Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish** (The Verge, theverge.com) — https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox
+- **Stellantis is in a crisis of its own making** (The Verge, theverge.com) — https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations
+- **Password Managers Share a Hidden Weakness** (Security Latest, wired.com) — https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/
+- **‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico's Navy** (Security Latest, wired.com) — https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/
+- **Anker’s X1 Pro shouldn’t exist, but I’m so glad it does** (The Verge, theverge.com) — https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1
+- **Tumbler Ridge suspect's ChatGPT account banned before shooting** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss
+- **Why fake AI videos of UK urban decline are taking over social media** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss
+- **The best e-reader to buy right now** (The Verge, theverge.com) — https://www.theverge.com/23769068/best-ebook-readers
+- **Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft** (The Verge, theverge.com) — https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out
+- **Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs** (The Verge, theverge.com) — https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs
+- **DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies** (Security Latest, wired.com) — https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/
+- **Exclusive eBook: The great Al hype correction of 2025** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/
+- **Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans** (Security Latest, wired.com) — https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/
+- **AI Safety Meets the War Machine** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/
+- **Asos co-founder dies after Thailand apartment block fall** (BBC News, bbc.com) — https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss
+- **The Download: Microsoft’s online reality check, and the worrying rise in measles cases** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/
+- **Could AI Data Centers Be Moved to Outer Space?** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/could-we-put-ai-data-centers-in-space/
+- **Job titles of the future: Breast biomechanic** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
+- **Community service** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/
+- **The Search Engine for OnlyFans Models Who Look Like Your Crush** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/
+- **Urgent research needed to tackle AI threats, says Google AI boss** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss
+- **Measles cases are rising. Other vaccine-preventable infections could be next.** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/
+- **Utformningen av tonnageskatten** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11528/
+- **Förebyggande av effekter av global ekosystemkollaps** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12489/
+- **Skydd av boreala skogsekosystem** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12496/
+- **Risker för folkhälsan när ekosystem bryter ihop** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12497/
+- **Kompetensförsörjning i Malmfälten** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10343/
+- **Etableringsstopp för vinstdrivande skolor** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10344/
+- **Finanspolitiska rådets årliga rapport om regeringens arbetsmarknadspolitik** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10345/
+- **Utvidgning av diskrimineringslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10346/
+- **Utbildningsbevis för ställningsbyggare** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10347/
+- **Nattågstrafiken i norra Sverige** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10348/
+- **Arbetsmiljön i sjukvården** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10349/
+- **Undersökning om skolelevers attityder och syn på minoritetsgrupper** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10350/
+- **Granskning av regeringens nätkoncessionsbeslut för Aurora Line** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/ku-anmalan/_hda1dnr1336/
+- **Starmer 'appeasing' big tech firms, says online safety campaigner** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss
+- **Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe** (Security Latest, wired.com) — https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/
+- **Nasa boss says Boeing Starliner failure one of worst in its history** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss
+- **A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon** (Security Latest, wired.com) — https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/
+- **How do you modernise mango farming?** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss
+- **An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years** (Security Latest, wired.com) — https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/
+- **The Chinese AI app sending Hollywood into a panic** (BBC News, bbc.com) — https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss
+- **Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/
+- **Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/perplexity-ads-shift-search-google/
+- **Microsoft error sees confidential emails exposed to AI tool Copilot** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss
+- **Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions** (Microsoft Research, microsoft.com) — https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/
+- **SpaceX rocket fireball linked to plume of polluting lithium** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss
+- **Microsoft has a new plan to prove what’s real and what’s AI online** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/
+- **The Download: autonomous narco submarines, and virtue signaling chatbots** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/
+- **2 Health Care Organizations Will Receive 2025 Baldrige National Quality Awards** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality
+- **How uncrewed narco subs could transform the Colombian drug trade** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/
+- **The building legal case for global climate justice** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/
+- **This AI Tool Will Tell You to Stop Slacking Off** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/
+- **med anledning av prop. 2025/26:119 Utveckling av makrotillsynsområdet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023911/
+- **med anledning av prop. 2025/26:118 Tillståndsprövning enligt förnybartdirektivet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023912/
+- **Riksrevisionens rapport om miljöräddning vid stora olyckor till sjöss** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03121/
+- **Frihetsberövande påföljder för barn och unga** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03132/
+- **Extra ändringsbudget för 2026 – Stöd till Ukraina och vaccinberedskap** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03143/
+- **Inhibition av verkställigheten – en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03145/
+- **Remissinstansernas kritik mot kvalificeringskrav till välfärden** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11527/
+- **How to Organize Safely in the Age of Surveillance** (Security Latest, wired.com) — https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/
+- **What it takes to make agentic AI work in retail** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/
+- **Zuckerberg defends Meta in landmark social media addiction trial** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss
+- **Tech firms will have 48 hours to remove abusive images under new law** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss
+- **This Defense Company Made AI Agents That Blow Things Up** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/
+- **Nvidia’s Deal With Meta Signals a New Era in Computing Power** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/
+- **A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft** (Security Latest, wired.com) — https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/
+- **Project Silica’s advances in glass storage technology** (Microsoft Research, microsoft.com) — https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
+- **Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/
+- **Checkup Time! How Measurement Science Keeps You Healthy** (Taking Measure, nist.gov) — https://www.nist.gov/blogs/taking-measure/checkup-time-how-measurement-science-keeps-you-healthy
+- **Call of Duty advert banned for trivialising sexual violence** (BBC News, bbc.com) — https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss
+- **V&A displays first YouTube video and watchpage** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss
+- **The Rise of RentAHuman, the Marketplace Where Bots Put People to Work** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/
+- **med anledning av prop. 2025/26:106 Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023905/
+- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023906/
+- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023907/
+- **med anledning av prop. 2025/26:118 Tillståndsprövning enligt förnybartdirektivet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023908/
+- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023909/
+- **med anledning av prop. 2025/26:106 Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023910/
+- **Europeiska unionens PDCA-avtal med Kuba** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11521/
+- **Förutsättningar för ökad AI-användning inom offentlig sektor** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11522/
+- **Ölandsbron** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11523/
+- **Palestinska myndighetens nya konstitutionsförslag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11524/
+- **Skatteverket** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11525/
+- **Information om misstänkta sexualbrottslingar** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11526/
+- **'I do not trust them' - top streamers left concerned by Discord age checks** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss
+- **Tech Life** (BBC News, bbc.co.uk) — https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss
+- **Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure
+- **NIST Releases New Forensic Genetic Reference Material to Help Crime Laboratories Analyze Challenging Cases** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/nist-releases-new-forensic-genetic-reference-material-help-crime
+- **Could Bill Gates and political tussles overshadow AI safety debate in Delhi?** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
+- **Riksrevisionens rapport om Polisreformen 2015** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03110/
+- **En ny funktion för operativ krishantering i den finansiella sektorn** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03116/
+- **Föreskrifter om förbud mot användning och innehav av vissa läkemedel för djur** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03120/
+- **Riksrevisionens rapport om statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03122/
+- **Explosiva varor – förbättrade möjligheter till kontroll** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03123/
+- **Uppgiftsskyldighet för vissa e-legitimationsföretag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03126/
+- **Åtgärder mot mervärdesskattebedrägerier** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03128/
+- **Utlämnande av uppgifter ur registret över verkliga huvudmän** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03129/
+- **En ny vapenlag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03141/
+- **Reddit's human content wins amid the AI flood** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss
+- **How dark web agent spotted bedroom wall clue to rescue girl from years of harm** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss
+- **New Silent Hill game inspired by tiny fishing village in Fife** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c043n0kl71wo?at_medium=RSS&at_campaign=rss
+- **The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess** (Security Latest, wired.com) — https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/
+- **ByteDance to curb AI video app after Disney legal threat** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss
+- **We will do battle with AI chatbots as we did with Grok, says Starmer** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss
