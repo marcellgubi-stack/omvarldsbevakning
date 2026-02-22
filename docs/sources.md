@@ -11,6 +11,7 @@ _Uppdaterad: 2026-02-22_
 - **wired.com** — 20
 - **theverge.com** — 10
 - **technologyreview.com** — 10
+- **regeringen.se** — 5
 - **nist.gov** — 4
 - **microsoft.com** — 2
 - **bbc.co.uk** — 1
@@ -19,6 +20,8 @@ _Uppdaterad: 2026-02-22_
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **America desperately needs new privacy laws** (The Verge, theverge.com) — https://www.theverge.com/column/882516/privacy-laws-america
+- **Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2** (The Verge, theverge.com) — https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review
 - **How to Hide Google’s AI Overviews From Your Search Results** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/
 - **Arturia’s FX Collection 6 adds two new effects and a $99 intro version** (The Verge, theverge.com) — https://www.theverge.com/tech/882852/arturia-fx-collection-6
 - **Georgia says Elon Musk’s America PAC violated election law** (The Verge, theverge.com) — https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud
@@ -32,13 +35,13 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Tumbler Ridge suspect's ChatGPT account banned before shooting** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss
 - **Why fake AI videos of UK urban decline are taking over social media** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss
 - **The best e-reader to buy right now** (The Verge, theverge.com) — https://www.theverge.com/23769068/best-ebook-readers
-- **Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft** (The Verge, theverge.com) — https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out
-- **Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs** (The Verge, theverge.com) — https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs
 - **DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies** (Security Latest, wired.com) — https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/
 - **Exclusive eBook: The great Al hype correction of 2025** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/
 - **Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans** (Security Latest, wired.com) — https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/
 - **AI Safety Meets the War Machine** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/
+- **Sveriges första heltäckande AI-strategi ska ge en topp tio-placering** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/sveriges-forsta-heltackande-ai-strategi-ska-ge-en-topp-tio-placering/
 - **Asos co-founder dies after Thailand apartment block fall** (BBC News, bbc.com) — https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss
+- **Sveriges AI-strategi på fem minuter** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/artiklar/2026/02/sveriges-ai-strategi-pa-fem-minuter/
 - **The Download: Microsoft’s online reality check, and the worrying rise in measles cases** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/
 - **Could AI Data Centers Be Moved to Outer Space?** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/could-we-put-ai-data-centers-in-space/
 - **Job titles of the future: Breast biomechanic** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
@@ -59,6 +62,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Arbetsmiljön i sjukvården** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10349/
 - **Undersökning om skolelevers attityder och syn på minoritetsgrupper** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10350/
 - **Granskning av regeringens nätkoncessionsbeslut för Aurora Line** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/ku-anmalan/_hda1dnr1336/
+- **Regeringen presenterar nyheter på AI-området** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/regeringen-presenterar-nyheter-pa-ai-omradet/
 - **Starmer 'appeasing' big tech firms, says online safety campaigner** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss
 - **Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe** (Security Latest, wired.com) — https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/
 - **Nasa boss says Boeing Starliner failure one of worst in its history** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss
@@ -122,9 +126,11 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Åtgärder mot mervärdesskattebedrägerier** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03128/
 - **Utlämnande av uppgifter ur registret över verkliga huvudmän** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03129/
 - **En ny vapenlag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03141/
+- **Vice statsminister Ebba Busch deltar i högnivåmöte om AI i Indien** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/vice-statsminister-ebba-busch-deltar-i-hognivamote-om-ai-i-indien/
 - **Reddit's human content wins amid the AI flood** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss
 - **How dark web agent spotted bedroom wall clue to rescue girl from years of harm** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss
 - **New Silent Hill game inspired by tiny fishing village in Fife** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c043n0kl71wo?at_medium=RSS&at_campaign=rss
 - **The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess** (Security Latest, wired.com) — https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/
 - **ByteDance to curb AI video app after Disney legal threat** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss
+- **Nytt statligt inköpssystem för digitala lösningar ska stärka Sveriges digitala suveränitet och gynna mindre företag** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/nytt-statligt-inkopssystem-for-digitala-losningar-ska-starka-sveriges-digitala-suveranitet-och-gynna-mindre-foretag/
 - **We will do battle with AI chatbots as we did with Grok, says Starmer** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss
