@@ -19,6 +19,7 @@ _Uppdaterad: 2026-02-22_
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **How to Hide Google’s AI Overviews From Your Search Results** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/
 - **Arturia’s FX Collection 6 adds two new effects and a $99 intro version** (The Verge, theverge.com) — https://www.theverge.com/tech/882852/arturia-fx-collection-6
 - **Georgia says Elon Musk’s America PAC violated election law** (The Verge, theverge.com) — https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud
 - **Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT** (The Verge, theverge.com) — https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt
@@ -95,7 +96,6 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Checkup Time! How Measurement Science Keeps You Healthy** (Taking Measure, nist.gov) — https://www.nist.gov/blogs/taking-measure/checkup-time-how-measurement-science-keeps-you-healthy
 - **Call of Duty advert banned for trivialising sexual violence** (BBC News, bbc.com) — https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss
 - **V&A displays first YouTube video and watchpage** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss
-- **The Rise of RentAHuman, the Marketplace Where Bots Put People to Work** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/
 - **med anledning av prop. 2025/26:106 Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023905/
 - **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023906/
 - **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023907/
