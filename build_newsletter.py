@@ -304,6 +304,9 @@ VIKTIGT: Inputen du får är redan diversifierad. Följ detta strikt:
 - Max 2 länkar per domän
 - Visa domän i parentes efter varje länk
 - Undvik att ta flera länkar om exakt samma händelse
+- Filtrera bort sådant som inte tydligt handlar om AI, ledarskap, policy, säkerhet, styrning eller organisationers användning av AI.
+- Undvik konsument-tech, musik/produktnyheter och gaming om det inte har tydlig AI/ledarskap-vinkel.
+- Om en länk känns off-topic: välj en annan från inputlistan.
 
 Struktur (Markdown):
 
