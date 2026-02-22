@@ -17,7 +17,7 @@ _Uppdaterad: 2026-02-22_
 
 ## Alla länkar (urval)
 
-Visar upp till 250 länkar som samlades in (efter dedupe).
+Visar upp till 300 länkar som samlades in (efter dedupe).
 
 - **Arturia’s FX Collection 6 adds two new effects and a $99 intro version** (The Verge, theverge.com) — https://www.theverge.com/tech/882852/arturia-fx-collection-6
 - **Georgia says Elon Musk’s America PAC violated election law** (The Verge, theverge.com) — https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud
