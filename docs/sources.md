@@ -7,34 +7,37 @@ _Uppdaterad: 2026-02-23_
 ## Top-domäner i input
 
 - **arxiv.org** — 358
+- **msrc.microsoft.com** — 200
 - **riksdagen.se** — 42
 - **aftonbladet.se** — 34
 - **techpolicy.press** — 20
-- **bbc.com** — 20
 - **svt.se** — 20
 - **wired.com** — 19
 - **nytimes.com** — 18
+- **rand.org** — 15
 - **technologyreview.com** — 10
-- **theverge.com** — 10
 - **restofworld.org** — 10
 - **regeringen.se** — 6
+- **edps.europa.eu** — 4
+- **eff.org** — 4
 - **nist.gov** — 4
+- **edpb.europa.eu** — 2
 - **cert.se** — 2
 - **microsoft.com** — 2
-- **bbc.co.uk** — 1
+- **cloud.google.com** — 1
 
 ## Alla länkar (urval)
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **Apotekare och läkare häktade för miljonbedrägeri** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/e7J1Pl/apotekare-och-lakare-haktade-for-miljonbedrageri?utm_medium=rss
+- **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
 - **Ukrainas uppbyggnad kräver 588 miljarder dollar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/V6PRlJ/ukrainas-uppbyggnad-kraver-588-miljarder-dollar?utm_medium=rss
 - **Backed by Anthropic, a Super PAC Begins Ad Blitz in Support of A.I. Regulation** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html
 - **AI is McDonald’s. That Will Be Good, Bad, and Catalytic for Civil Rights Advocacy.** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/ai-is-mcdonalds-that-will-be-good-bad-and-catalytic-for-civil-rights-advocacy
 - **Man åtalas för mordförsök på LSS-boende** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vreWap/man-atalas-for-mordforsok-pa-lss-boende?utm_medium=rss
 - **Källor: ”Enorm” lösensumma vid kidnappning** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/bOgMAB/kallor-enorm-losensumma-vid-kidnappning?utm_medium=rss
 - **The Download: Chicago’s surveillance network, and building better bras** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/
-- **Nothing couldn’t wait to show off the Phone 4A** (The Verge, theverge.com) — https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar
-- **Uber launches robotaxi support project to aid AV partners** (The Verge, theverge.com) — https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners
 - **En anhållen efter tillslag mot Hells Angels** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/q61p9g/tillslag-mot-hells-angels-klubbhus?utm_medium=rss
 - **Nej till subvention för fetmaläkemedel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/165PlB/nej-till-subvention-for-fetmalakemedel?utm_medium=rss
 - **Tracking Efforts To Restrict Or Ban Teens from Social Media Across the Globe** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe
@@ -43,26 +46,24 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **EN UNDRAN TILL: Kan makten bildas i mitten?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/podcasts/episode/396690?utm_medium=rss
 - **Tyska spioner får mer makt – tilltron till USA viker** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjxG/tyska-spioner-far-mer-makt-tilltron-till-usa-viker?utm_medium=rss
 - **Regeringen: Invandrare ska kvalificera sig till välfärden** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/43ojJ6/regeringen-invandrare-ska-kvalificera-till-valfarden?utm_medium=rss
-- **Hårdare krav för bidrag till invandrare** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nB7o/hardare-krav-for-bidrag-till-invandrare?utm_medium=rss
+- **Hårdare krav för att få bidrag: "Välj annat land"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nB7o/hardare-krav-for-bidrag-till-invandrare?utm_medium=rss
 - **How Have Platforms Addressed Addictive Design Under the DSA** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa
 - **Apparna spelar med din hjärna – därför förlorar du** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/9pzlW5/apparna-spelar-med-din-hjarna-darfor-forlorar-du?utm_medium=rss
 - **Tricken som får oss att fastna i apparna** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/GxMlJq/tricken-som-far-oss-att-fastna-i-apparna?utm_medium=rss
+- **AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement** (EDPB News, edpb.europa.eu) — https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en
 - **The Challenge of Evaluating AI Products in Healthcare** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/the-challenge-of-evaluating-ai-products-in-healthcare
 - **Polisrazzia mot Hells Angels klubbhus i Åkarp** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p6nL3/tillslag-mot-hells-angels?utm_medium=rss
-- **Porn company fined £1.35m by Ofcom over age check failings** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss
 - **Bidrag till skyfallsdrabbade vägar uteblir** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/L4lpaJ/bidrag-till-skyfallsdrabbade-vagar-uteblir?utm_medium=rss
 - **Tabitha, 19, har inte tid att vänta – utvisas om tre veckor** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y54ndJ/tabitha-19-i-vetlanda-har-inte-tid-att-vanta-utvisas-till-uganda-om-tre-veckor?utm_medium=rss
-- **Taara Beam provides 25Gbps connectivity over invisible beams of light** (The Verge, theverge.com) — https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light
-- **How many AIs does it take to read a PDF?** (The Verge, theverge.com) — https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure
 - **Gig workers in Africa have been helping the US military. They had no idea** (Rest of World -, restofworld.org) — https://restofworld.org/2026/gig-workers-us-military-appen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - **TV4 tar GW i försvar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nBP6/tv4-tar-gw-i-forsvar?utm_medium=rss
 - **Par döms till fängelse för kändisbedrägerier** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/QJ7RM4/par-doms-till-fangelse-for-kandisbedragerier?utm_medium=rss
 - **Lagrådet sågar förslag om medborgarskap** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y56162/lagradet-sagar-forslag-om-medborgarskap?utm_medium=rss
 - **Sigrid skrev ned varje gång hon blev bältad av psykiatrin** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y54olx/sigrid-skrev-ned-varje-gang-hon-blev-baltad-av-psykiatrin?utm_medium=rss
 - **Källor: Island folkomröstar om EU i augusti** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjQg/kallor-island-folkomrostar-om-eu-i-augusti?utm_medium=rss
+- **Joint Statement on AI-Generated Imagery and the Protection of Privacy** (News, edps.europa.eu) — https://www.edps.europa.eu/press-publications/press-news/news/2026/joint-statement-ai-generated-imagery-and-protection-privacy
 - **Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html
 - **ICC-åklagare: Duterte godkände mord** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/2pBn3a/icc-inleder-forhandlingar-mot-duterte?utm_medium=rss
-- **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
 - **Inside Chicago’s surveillance panopticon** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/
 - **Kvalificering till socialförsäkringen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03136/
 - **Snöröjning på E22** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12508/
@@ -76,7 +77,10 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Chatta: Har du drabbats av OS-blues?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/j0aVRA/chatta-har-du-drabbats-av-os-blues?utm_medium=rss
 - **Stubb: ”Ukraina håller på att vinna kriget”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/rrEvvw/stubb-ukraina-haller-pa-att-vinna-kriget?utm_medium=rss
 - **Vikarie kränktes med apljud och n-ordet** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7pd9WW/vikarie-kranktes-med-apljud-och-n-ordet?utm_medium=rss
+- **Sun-sational Incentives** (New RAND Publications, rand.org) — https://www.rand.org/pubs/rgs_dissertations/RGSDA4812-1.html
+- **Judge Reliability Harness** (New RAND Publications, rand.org) — https://www.rand.org/pubs/tools/TLA4547-1.html
 - **Flera döda i busskrasch i Nepal** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LxlE/flera-doda-i-busskrasch-i-nepal?utm_medium=rss
+- **Decisive Economic Advantage** (New RAND Publications, rand.org) — https://www.rand.org/pubs/research_reports/RRA4444-1.html
 - **EU:s utrikesministrar träffar Trumps "fredsråd"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8zE2e/eu-s-utrikesministrar-traffar-trumps-fredsrad?utm_medium=rss
 - **Nya migrationssmällen: Tech-entreprenörer ratar Sverige** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LBMM/nya-migrationssmallen-tech-entreprenorer-ratar-sverige?utm_medium=rss
 - **Civilministern reser till Örebro och Odensbacken** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/civilministern-reser-till-orebro-och-odensbacken/
@@ -326,4 +330,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18403
 - **Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18417
 - **The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18428
-- **Assigning Confidence: K-partition Ensembles** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18435
