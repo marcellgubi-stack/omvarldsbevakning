@@ -315,13 +315,22 @@ _Uppdaterad: {week}_
 ## TL;DR
 - (3 bullets)
 
-## Viktigaste teman
-- (3–5 bullets)
-
-## Utvalda länkar
+## Sverige & EU
+Välj 2–3 länkar som är relevanta för Sverige/EU (strategier, myndigheter, AI Act, IMY, regeringen, riksdagen).
 Varje punkt: **Titel** – 1 mening varför det spelar roll. (domän) URL
 
-Avsluta med:
+## Global policy & governance
+Välj 2–3 länkar om policy/styrning globalt.
+Varje punkt: **Titel** – 1 mening varför det spelar roll. (domän) URL
+
+## Risk & säkerhet
+Välj 2–3 länkar om säkerhet, incidenter, standarder, riskhantering.
+Varje punkt: **Titel** – 1 mening varför det spelar roll. (domän) URL
+
+## Work & society
+Välj 2–3 länkar om arbetsliv, kultur, påverkan, etik, rättigheter (inte prylnyheter).
+Varje punkt: **Titel** – 1 mening varför det spelar roll. (domän) URL
+
 ## Alla källor
 - sources
 """.strip()
