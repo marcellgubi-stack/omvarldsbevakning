@@ -310,7 +310,7 @@ VIKTIGT: Inputen du får är redan diversifierad. Följ detta strikt:
 
 Struktur (Markdown):
 
-_Uppdaterad: {week}_
+_Uppdaterad: {week} (vecka {weeknum})_
 
 ## TL;DR
 - (3 bullets)
