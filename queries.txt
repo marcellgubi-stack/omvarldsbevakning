@@ -3,3 +3,10 @@ AI governance
 generative AI policy
 AI i offentlig sektor Sverige
 AI security leadership
+site:regeringen.se AI strategi
+site:svt.se AI strategi
+site:restofworld.org AI
+site:arstechnica.com AI
+site:businessinsider.com AI video
+site:hollywoodreporter.com AI video
+site:nytimes.com AI dating
