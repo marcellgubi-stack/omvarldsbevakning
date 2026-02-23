@@ -362,10 +362,11 @@ def main():
 
     if not items:
         write_docs(
+    if not items:
     write_docs(
-    f"_Uppdaterad: {now_stockholm().date().isoformat()} (vecka {now_stockholm().isocalendar().week})_\n\n## Status\n\nInga källor hittades denna vecka."
-)
-        return
+        f"_Uppdaterad: {now_stockholm().date().isoformat()} (vecka {now_stockholm().isocalendar().week})_\n\n## Status\n\nInga källor hittades denna vecka."
+    )
+    return
 
     diverse = select_diverse(items, max_total=MAX_ITEMS_TO_AI, max_per_domain=MAX_PER_DOMAIN)
 
