@@ -14,8 +14,8 @@ _Uppdaterad: 2026-02-23_
 - **aftonbladet.se** — 34
 - **rand.org** — 26
 - **wired.com** — 25
-- **nytimes.com** — 20
 - **svt.se** — 20
+- **nytimes.com** — 20
 - **eff.org** — 18
 - **restofworld.org** — 12
 - **technologyreview.com** — 10
@@ -32,6 +32,8 @@ _Uppdaterad: 2026-02-23_
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **Kommenterad dagordning för rådets möte för rättsliga och inrikes frågor (RIF) den 5–6 mars 2026** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/kommenterade-dagordningar/2026/02/kommenterad-dagordning-for-radets-mote-for-rattsliga-och-inrikes-fragor-rif-den-56-mars-2026/
+- **Två fick ström i sig – under Mölndalsbandets konsert i London** (Väst | SVT Nyheter, svt.se) — https://www.svt.se/nyheter/lokalt/vast/tva-fick-strom-i-sig-under-molndalsbandets-konsert-i-london
 - **CHATT: Hur minns du Birgitta Andersson?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/oEnRvR/chatt-hur-minns-du-birgitta-andersson?utm_medium=rss
 - **Can a President Unilaterally Withdraw—and Rejoin—the UN Climate Treaty?** (Articles, lawfaremedia.org) — https://www.lawfaremedia.org/article/can-a-president-unilaterally-withdraw-and-rejoin-the-un-climate-treaty
 - **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
@@ -77,6 +79,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Sigrid skrev ned varje gång hon blev bältad av psykiatrin** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y54olx/sigrid-skrev-ned-varje-gang-hon-blev-baltad-av-psykiatrin?utm_medium=rss
 - **Källor: Island folkomröstar om EU i augusti** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjQg/kallor-island-folkomrostar-om-eu-i-augusti?utm_medium=rss
 - **Joint Statement on AI-Generated Imagery and the Protection of Privacy** (News, edps.europa.eu) — https://www.edps.europa.eu/press-publications/press-news/news/2026/joint-statement-ai-generated-imagery-and-protection-privacy
+- **‘A.I. Literacy’ Is Trending in Schools. Here’s Why.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html
 - **Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html
 - **ICC-åklagare: Duterte godkände mord** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/2pBn3a/icc-inleder-forhandlingar-mot-duterte?utm_medium=rss
 - **Inside Chicago’s surveillance panopticon** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/
@@ -329,6 +332,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Learning Long-Range Dependencies with Temporal Predictive Coding** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18131
 - **Advection-Diffusion on Graphs: A Bakry-Emery Laplacian for Spectral Graph Neural Networks** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18141
 - **Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18146
-- **Unifying Formal Explanations: A Complexity-Theoretic Perspective** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18160
-- **A Deep Surrogate Model for Robust and Generalizable Long-Term Blast Wave Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18168
-- **SeedFlood: A Step Toward Scalable Decentralized Training of LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18181
