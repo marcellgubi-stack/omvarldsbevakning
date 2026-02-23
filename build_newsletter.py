@@ -295,7 +295,7 @@ def call_openai_weekly_editor(system_text: str, user_text: str) -> str:
 
 
 def build_newsletter(diverse_items: List[Dict[str, Any]]) -> str:
-    week = now_stockholm().date().isoformat()
+    weeknum = now_stockholm().isocalendar().week
 
     system = f"""
 Du skriver ett veckobrev om AI & ledarskap på {LANG}.
