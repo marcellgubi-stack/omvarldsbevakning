@@ -8,6 +8,7 @@ _Uppdaterad: 2026-02-23_
 
 - **arxiv.org** — 358
 - **msrc.microsoft.com** — 200
+- **regeringen.se** — 90
 - **riksdagen.se** — 49
 - **techpolicy.press** — 42
 - **aftonbladet.se** — 34
@@ -17,7 +18,6 @@ _Uppdaterad: 2026-02-23_
 - **svt.se** — 20
 - **eff.org** — 18
 - **restofworld.org** — 12
-- **regeringen.se** — 11
 - **technologyreview.com** — 10
 - **edps.europa.eu** — 6
 - **edpb.europa.eu** — 5
@@ -40,19 +40,25 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Apotekare och läkare häktade för miljonbedrägeri** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/e7J1Pl/apotekare-och-lakare-haktade-for-miljonbedrageri?utm_medium=rss
 - **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
 - **Ukrainas uppbyggnad kräver 588 miljarder dollar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/V6PRlJ/ukrainas-uppbyggnad-kraver-588-miljarder-dollar?utm_medium=rss
+- **Uppdrag till Polismyndigheten att samverka med berörda aktörer i sportskyttesammanhang i frågor om aktivitetskrav** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/regeringsuppdrag/2026/02/uppdrag-till-polismyndigheten-att-samverka-med-berorda-aktorer-i-sportskyttesammanhang-i-fragor-om-aktivitetskrav/
 - **AI is McDonald’s. That Will Be Good, Bad, and Catalytic for Civil Rights Advocacy.** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/ai-is-mcdonalds-that-will-be-good-bad-and-catalytic-for-civil-rights-advocacy
 - **Man åtalas för mordförsök på LSS-boende** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vreWap/man-atalas-for-mordforsok-pa-lss-boende?utm_medium=rss
 - **Källor: ”Enorm” lösensumma vid kidnappning** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/bOgMAB/kallor-enorm-losensumma-vid-kidnappning?utm_medium=rss
+- **Remiss Utkast till lagårdsremiss  Elektronisk övervakning – ett verktyg för socialtjänsten till skydd för barn och unga** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/remisser/2026/02/remiss-utkast-till-lagardsremiss--elektronisk-overvakning--ett-verktyg-for-socialtjansten-till-skydd-for-barn-och-unga/
 - **The Download: Chicago’s surveillance network, and building better bras** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/
 - **En anhållen efter tillslag mot Hells Angels** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/q61p9g/tillslag-mot-hells-angels-klubbhus?utm_medium=rss
 - **Nej till subvention för fetmaläkemedel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/165PlB/nej-till-subvention-for-fetmalakemedel?utm_medium=rss
 - **Tracking Efforts To Restrict Or Ban Teens from Social Media Across the Globe** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe
+- **Uppdrag till Socialstyrelsen att ta fram metodstöd till hälso- och sjukvården i arbetet med att förebygga, bedöma och hantera patienters risk för att skada andra** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/regeringsuppdrag/2026/02/uppdrag-till-socialstyrelsen-att-ta-fram-metodstod-till-halso--och-sjukvarden-i-arbetet-med-att-forebygga-bedoma-och-hantera-patienters-risk-for-att-skada-andra/
 - **Nytt uppdrag ska minska digitalt utanförskap** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/nytt-uppdrag-ska-minska-digitalt-utanforskap/
+- **Uppdrag till Inspektionen för vård och omsorg att granska arbetet med riskbedömningar avseende framtida benägenhet att begå våldsbrott i samhället** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/regeringsuppdrag/2026/02/uppdrag-till-inspektionen-for-vard-och-omsorg-att-granska-arbetet-med-riskbedomningar-avseende-framtida-benagenhet-att-bega-valdsbrott-i-samhallet/
 - **TV4 efter GW:s ministerutspel: ”Har rätt att uttrycka sig”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/JOxPwJ/tv4-s-svar-efter-leif-gw-s-utspel-om-ministerhoten?utm_medium=rss
 - **EN UNDRAN TILL: Kan makten bildas i mitten?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/podcasts/episode/396690?utm_medium=rss
 - **Tyska spioner får mer makt – tilltron till USA viker** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjxG/tyska-spioner-far-mer-makt-tilltron-till-usa-viker?utm_medium=rss
 - **Regeringen: Invandrare ska kvalificera sig till välfärden** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/43ojJ6/regeringen-invandrare-ska-kvalificera-till-valfarden?utm_medium=rss
 - **Hårdare krav för att få bidrag: "Välj annat land"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nB7o/hardare-krav-for-bidrag-till-invandrare?utm_medium=rss
+- **Kvalificering till socialförsäkringen** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/rattsliga-dokument/proposition/2026/02/prop.-202526136
+- **Tredje delen av bidragsreformen – kvalificering till socialförsäkringen** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/tredje-delen-av-bidragsreformen--kvalificering-till-socialforsakringen/
 - **How Have Platforms Addressed Addictive Design Under the DSA** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa
 - **Apparna spelar med din hjärna – därför förlorar du** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/9pzlW5/apparna-spelar-med-din-hjarna-darfor-forlorar-du?utm_medium=rss
 - **Tricken som får oss att fastna i apparna** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/GxMlJq/tricken-som-far-oss-att-fastna-i-apparna?utm_medium=rss
@@ -87,6 +93,8 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Vikarie kränktes med apljud och n-ordet** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7pd9WW/vikarie-kranktes-med-apljud-och-n-ordet?utm_medium=rss
 - **Sun-sational Incentives** (New RAND Publications, rand.org) — https://www.rand.org/pubs/rgs_dissertations/RGSDA4812-1.html
 - **Judge Reliability Harness** (New RAND Publications, rand.org) — https://www.rand.org/pubs/tools/TLA4547-1.html
+- **Så ska fler unga kunna starta eget** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/debattartiklar/2026/02/sa-ska-fler-unga-kunna-starta-eget/
+- **Regeringen stärker stödet för ungas entreprenörskap och företagande** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/regeringen-starker-stodet-for-ungas-entreprenorskap-och-foretagande/
 - **Flera döda i busskrasch i Nepal** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LxlE/flera-doda-i-busskrasch-i-nepal?utm_medium=rss
 - **Decisive Economic Advantage** (New RAND Publications, rand.org) — https://www.rand.org/pubs/research_reports/RRA4444-1.html
 - **EU:s utrikesministrar träffar Trumps "fredsråd"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8zE2e/eu-s-utrikesministrar-traffar-trumps-fredsrad?utm_medium=rss
@@ -94,6 +102,8 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Civilministern reser till Örebro och Odensbacken** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/civilministern-reser-till-orebro-och-odensbacken/
 - **Lista: De patientfarliga mottagningarna som stoppats** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p54OW/lista-vardgivarna-som-stoppats-av-ivo?utm_medium=rss
 - **Sändebudet till Grönlands regeringschef: ”Skäms!”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/437nxo/sandebudet-till-gronlands-regeringschef-skams?utm_medium=rss
+- **Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/utrikesminister-maria-malmer-stenergard-deltar-i-eus-utrikesministermote/
+- **Pressträff om kvalificering till socialförsäkringen** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/presstraff-om-kvalificering-till-socialforsakringen/
 - **Epistemic Traps: Rational Misalignment Driven by Model Misspecification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17676
 - **Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17826
 - **The Token Games: Evaluating Language Model Reasoning with Puzzle Duels** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17831
@@ -322,13 +332,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **A Deep Surrogate Model for Robust and Generalizable Long-Term Blast Wave Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18168
 - **SeedFlood: A Step Toward Scalable Decentralized Training of LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18181
 - **RAT+: Train Dense, Infer Sparse -- Recurrence Augmented Attention for Dilated Inference** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18196
-- **Generative Model via Quantile Assignment** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18216
-- **Parameter-Efficient Domain Adaptation of Physics-Informed Self-Attention based GNNs for AC Power Flow Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18227
-- **Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18248
-- **Variational Distributional Neuron** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18250
-- **MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18253
-- **A Probabilistic Framework for LLM-Based Model Discovery** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18266
-- **On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18301
-- **On the "Induction Bias" in Sequence Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18333
-- **Explaining AutoClustering: Uncovering Meta-Feature Contribution in AutoML for Clustering** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18348
-- **PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18396
