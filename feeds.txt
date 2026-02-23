@@ -82,3 +82,6 @@ https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 https://netblocks.org/feed
 https://www.mandiant.com/resources/blog/rss.xml
 https://www.cert.se/feed/atom.xml
+
+# --- Sverige: Regeringskansliet (AI / digitalisering) ---
+https://www.regeringen.se/Filter/RssFeed?filterType=Taxonomy&filterByType=FilterablePageBase&preFilteredCategories=...
