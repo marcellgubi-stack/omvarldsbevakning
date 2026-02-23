@@ -10,3 +10,22 @@ site:arstechnica.com AI
 site:businessinsider.com AI video
 site:hollywoodreporter.com AI video
 site:nytimes.com AI dating
+# --- Global mix: policy / governance / risk ---
+EU AI Act implementation guidance
+AI risk management leadership NIST RMF
+AI incident reporting policy
+algorithmic accountability law update
+deepfake authenticity regulation
+
+# --- Labour / impact / “rest of world” vibes ---
+AI outsourcing labor conditions
+data labeling workers AI exploitation
+call center AI monitoring policy
+India AI regulation update
+Global South AI governance
+
+# --- Media / culture / copyright (lagom, inte “prylar”) ---
+generative AI copyright lawsuit update
+synthetic media authenticity standards
+AI video tool copyright Disney
+newsroom AI policy guidelines
