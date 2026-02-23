@@ -8,29 +8,32 @@ _Uppdaterad: 2026-02-23_
 
 - **arxiv.org** — 358
 - **msrc.microsoft.com** — 200
-- **riksdagen.se** — 42
+- **riksdagen.se** — 49
+- **techpolicy.press** — 42
 - **aftonbladet.se** — 34
-- **techpolicy.press** — 20
+- **rand.org** — 26
+- **wired.com** — 25
+- **nytimes.com** — 20
 - **svt.se** — 20
-- **wired.com** — 19
-- **nytimes.com** — 18
-- **rand.org** — 15
+- **eff.org** — 18
+- **restofworld.org** — 12
+- **regeringen.se** — 11
 - **technologyreview.com** — 10
-- **restofworld.org** — 10
-- **regeringen.se** — 6
-- **edps.europa.eu** — 4
-- **eff.org** — 4
-- **nist.gov** — 4
-- **edpb.europa.eu** — 2
-- **cert.se** — 2
+- **edps.europa.eu** — 6
+- **edpb.europa.eu** — 5
+- **nist.gov** — 5
+- **cert.se** — 4
+- **cloud.google.com** — 3
 - **microsoft.com** — 2
 - **lawfaremedia.org** — 1
-- **cloud.google.com** — 1
+- **ncsc.gov.uk** — 1
 
 ## Alla länkar (urval)
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
+- **Utredning om Trump får inte offentliggöras** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vremkl/utredning-om-trump-far-inte-offentliggoras?utm_medium=rss
 - **People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html
 - **Backed by Anthropic, a Super PAC Begins an Ad Blitz in Support of A.I. Regulation** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html
 - **USA kallar hem diplomater från Libanon** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/ArP2P3/usa-kallar-hem-diplomater-fran-libanon?utm_medium=rss
@@ -69,6 +72,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html
 - **ICC-åklagare: Duterte godkände mord** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/2pBn3a/icc-inleder-forhandlingar-mot-duterte?utm_medium=rss
 - **Inside Chicago’s surveillance panopticon** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/
+- **med anledning av prop. 2025/26:118 Tillståndsprövning enligt förnybartdirektivet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023913/
 - **Kvalificering till socialförsäkringen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03136/
 - **Snöröjning på E22** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12508/
 - **Svenska diplomatkopplingar till Jeffrey Epstein** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12516/
@@ -89,9 +93,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Nya migrationssmällen: Tech-entreprenörer ratar Sverige** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LBMM/nya-migrationssmallen-tech-entreprenorer-ratar-sverige?utm_medium=rss
 - **Civilministern reser till Örebro och Odensbacken** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/civilministern-reser-till-orebro-och-odensbacken/
 - **Lista: De patientfarliga mottagningarna som stoppats** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p54OW/lista-vardgivarna-som-stoppats-av-ivo?utm_medium=rss
-- **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
 - **Sändebudet till Grönlands regeringschef: ”Skäms!”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/437nxo/sandebudet-till-gronlands-regeringschef-skams?utm_medium=rss
-- **Gamla djur och få ungar – djurparkers svåra problem** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/Wvj4Jd/gamla-djur-och-fa-ungar-djurparkers-svara-problem?utm_medium=rss
 - **Epistemic Traps: Rational Misalignment Driven by Model Misspecification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17676
 - **Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17826
 - **The Token Games: Evaluating Language Model Reasoning with Puzzle Duels** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17831
@@ -330,4 +332,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **On the "Induction Bias" in Sequence Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18333
 - **Explaining AutoClustering: Uncovering Meta-Feature Contribution in AutoML for Clustering** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18348
 - **PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18396
-- **Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18403
