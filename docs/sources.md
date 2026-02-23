@@ -30,6 +30,7 @@ _Uppdaterad: 2026-02-23_
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **USA kallar hem diplomater från Libanon** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/ArP2P3/usa-kallar-hem-diplomater-fran-libanon?utm_medium=rss
 - **Apotekare och läkare häktade för miljonbedrägeri** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/e7J1Pl/apotekare-och-lakare-haktade-for-miljonbedrageri?utm_medium=rss
 - **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
 - **Ukrainas uppbyggnad kräver 588 miljarder dollar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/V6PRlJ/ukrainas-uppbyggnad-kraver-588-miljarder-dollar?utm_medium=rss
@@ -88,7 +89,6 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
 - **Sändebudet till Grönlands regeringschef: ”Skäms!”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/437nxo/sandebudet-till-gronlands-regeringschef-skams?utm_medium=rss
 - **Gamla djur och få ungar – djurparkers svåra problem** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/Wvj4Jd/gamla-djur-och-fa-ungar-djurparkers-svara-problem?utm_medium=rss
-- **Utrikesministern om Ungerns hot: "En skamfläck"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LxEo/ungern-hotar-stjalpa-sanktioner-och-ukrainastod?utm_medium=rss
 - **Epistemic Traps: Rational Misalignment Driven by Model Misspecification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17676
 - **Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17826
 - **The Token Games: Evaluating Language Model Reasoning with Puzzle Duels** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17831
