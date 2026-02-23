@@ -29,3 +29,7 @@ generative AI copyright lawsuit update
 synthetic media authenticity standards
 AI video tool copyright Disney
 newsroom AI policy guidelines
+
+site:oecd.ai AI Wonk
+site:oecd.org artificial intelligence
+site:oecd.org "Due Diligence Guidance" AI
