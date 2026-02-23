@@ -24,17 +24,19 @@ _Uppdaterad: 2026-02-23_
 - **edpb.europa.eu** — 2
 - **cert.se** — 2
 - **microsoft.com** — 2
+- **lawfaremedia.org** — 1
 - **cloud.google.com** — 1
 
 ## Alla länkar (urval)
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html
+- **Backed by Anthropic, a Super PAC Begins an Ad Blitz in Support of A.I. Regulation** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html
 - **USA kallar hem diplomater från Libanon** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/ArP2P3/usa-kallar-hem-diplomater-fran-libanon?utm_medium=rss
 - **Apotekare och läkare häktade för miljonbedrägeri** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/e7J1Pl/apotekare-och-lakare-haktade-for-miljonbedrageri?utm_medium=rss
 - **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
 - **Ukrainas uppbyggnad kräver 588 miljarder dollar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/V6PRlJ/ukrainas-uppbyggnad-kraver-588-miljarder-dollar?utm_medium=rss
-- **Backed by Anthropic, a Super PAC Begins Ad Blitz in Support of A.I. Regulation** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html
 - **AI is McDonald’s. That Will Be Good, Bad, and Catalytic for Civil Rights Advocacy.** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/ai-is-mcdonalds-that-will-be-good-bad-and-catalytic-for-civil-rights-advocacy
 - **Man åtalas för mordförsök på LSS-boende** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vreWap/man-atalas-for-mordforsok-pa-lss-boende?utm_medium=rss
 - **Källor: ”Enorm” lösensumma vid kidnappning** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/bOgMAB/kallor-enorm-losensumma-vid-kidnappning?utm_medium=rss
@@ -51,6 +53,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **How Have Platforms Addressed Addictive Design Under the DSA** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa
 - **Apparna spelar med din hjärna – därför förlorar du** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/9pzlW5/apparna-spelar-med-din-hjarna-darfor-forlorar-du?utm_medium=rss
 - **Tricken som får oss att fastna i apparna** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/GxMlJq/tricken-som-far-oss-att-fastna-i-apparna?utm_medium=rss
+- **Lawfare Daily: The Trials of the Trump Administration, Feb. 20** (Articles, lawfaremedia.org) — https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--feb.-20
 - **AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly’s statement** (EDPB News, edpb.europa.eu) — https://www.edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en
 - **The Challenge of Evaluating AI Products in Healthcare** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/the-challenge-of-evaluating-ai-products-in-healthcare
 - **Polisrazzia mot Hells Angels klubbhus i Åkarp** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p6nL3/tillslag-mot-hells-angels?utm_medium=rss
@@ -328,5 +331,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Explaining AutoClustering: Uncovering Meta-Feature Contribution in AutoML for Clustering** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18348
 - **PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18396
 - **Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18403
-- **Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18417
-- **The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18428
