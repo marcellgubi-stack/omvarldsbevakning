@@ -2,17 +2,24 @@
 title: Alla källor
 ---
 
-_Uppdaterad: 2026-02-22_
+_Uppdaterad: 2026-02-23_
 
 ## Top-domäner i input
 
-- **riksdagen.se** — 41
-- **bbc.com** — 21
-- **wired.com** — 20
-- **theverge.com** — 10
+- **arxiv.org** — 358
+- **riksdagen.se** — 42
+- **aftonbladet.se** — 34
+- **techpolicy.press** — 20
+- **bbc.com** — 20
+- **svt.se** — 20
+- **wired.com** — 19
+- **nytimes.com** — 18
 - **technologyreview.com** — 10
-- **regeringen.se** — 5
+- **theverge.com** — 10
+- **restofworld.org** — 10
+- **regeringen.se** — 6
 - **nist.gov** — 4
+- **cert.se** — 2
 - **microsoft.com** — 2
 - **bbc.co.uk** — 1
 
@@ -20,117 +27,303 @@ _Uppdaterad: 2026-02-22_
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
-- **America desperately needs new privacy laws** (The Verge, theverge.com) — https://www.theverge.com/column/882516/privacy-laws-america
-- **Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2** (The Verge, theverge.com) — https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review
-- **How to Hide Google’s AI Overviews From Your Search Results** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/
-- **Arturia’s FX Collection 6 adds two new effects and a $99 intro version** (The Verge, theverge.com) — https://www.theverge.com/tech/882852/arturia-fx-collection-6
-- **Georgia says Elon Musk’s America PAC violated election law** (The Verge, theverge.com) — https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud
-- **Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT** (The Verge, theverge.com) — https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt
-- **The Pixel 10A and Soundcore Space One are just two of the best deals this week** (The Verge, theverge.com) — https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale
-- **Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish** (The Verge, theverge.com) — https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox
-- **Stellantis is in a crisis of its own making** (The Verge, theverge.com) — https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations
-- **Password Managers Share a Hidden Weakness** (Security Latest, wired.com) — https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/
-- **‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico's Navy** (Security Latest, wired.com) — https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/
-- **Anker’s X1 Pro shouldn’t exist, but I’m so glad it does** (The Verge, theverge.com) — https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1
-- **Tumbler Ridge suspect's ChatGPT account banned before shooting** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss
-- **Why fake AI videos of UK urban decline are taking over social media** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss
-- **The best e-reader to buy right now** (The Verge, theverge.com) — https://www.theverge.com/23769068/best-ebook-readers
-- **DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies** (Security Latest, wired.com) — https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/
-- **Exclusive eBook: The great Al hype correction of 2025** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/
-- **Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans** (Security Latest, wired.com) — https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/
-- **AI Safety Meets the War Machine** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/
-- **Sveriges första heltäckande AI-strategi ska ge en topp tio-placering** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/sveriges-forsta-heltackande-ai-strategi-ska-ge-en-topp-tio-placering/
-- **Asos co-founder dies after Thailand apartment block fall** (BBC News, bbc.com) — https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss
-- **Sveriges AI-strategi på fem minuter** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/artiklar/2026/02/sveriges-ai-strategi-pa-fem-minuter/
-- **The Download: Microsoft’s online reality check, and the worrying rise in measles cases** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/
-- **Could AI Data Centers Be Moved to Outer Space?** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/could-we-put-ai-data-centers-in-space/
-- **Job titles of the future: Breast biomechanic** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
-- **Community service** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/
-- **The Search Engine for OnlyFans Models Who Look Like Your Crush** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/
-- **Urgent research needed to tackle AI threats, says Google AI boss** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss
-- **Measles cases are rising. Other vaccine-preventable infections could be next.** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/
-- **Utformningen av tonnageskatten** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11528/
-- **Förebyggande av effekter av global ekosystemkollaps** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12489/
-- **Skydd av boreala skogsekosystem** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12496/
-- **Risker för folkhälsan när ekosystem bryter ihop** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12497/
-- **Kompetensförsörjning i Malmfälten** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10343/
-- **Etableringsstopp för vinstdrivande skolor** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10344/
-- **Finanspolitiska rådets årliga rapport om regeringens arbetsmarknadspolitik** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10345/
-- **Utvidgning av diskrimineringslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10346/
-- **Utbildningsbevis för ställningsbyggare** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10347/
-- **Nattågstrafiken i norra Sverige** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10348/
-- **Arbetsmiljön i sjukvården** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10349/
-- **Undersökning om skolelevers attityder och syn på minoritetsgrupper** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10350/
-- **Granskning av regeringens nätkoncessionsbeslut för Aurora Line** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/ku-anmalan/_hda1dnr1336/
-- **Regeringen presenterar nyheter på AI-området** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/regeringen-presenterar-nyheter-pa-ai-omradet/
-- **Starmer 'appeasing' big tech firms, says online safety campaigner** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss
-- **Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe** (Security Latest, wired.com) — https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/
-- **Nasa boss says Boeing Starliner failure one of worst in its history** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss
-- **A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon** (Security Latest, wired.com) — https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/
-- **How do you modernise mango farming?** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss
-- **An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years** (Security Latest, wired.com) — https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/
-- **The Chinese AI app sending Hollywood into a panic** (BBC News, bbc.com) — https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss
-- **Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/
-- **Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/perplexity-ads-shift-search-google/
-- **Microsoft error sees confidential emails exposed to AI tool Copilot** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss
-- **Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions** (Microsoft Research, microsoft.com) — https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/
-- **SpaceX rocket fireball linked to plume of polluting lithium** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss
-- **Microsoft has a new plan to prove what’s real and what’s AI online** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/
-- **The Download: autonomous narco submarines, and virtue signaling chatbots** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/
-- **2 Health Care Organizations Will Receive 2025 Baldrige National Quality Awards** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality
-- **How uncrewed narco subs could transform the Colombian drug trade** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/
-- **The building legal case for global climate justice** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/
-- **This AI Tool Will Tell You to Stop Slacking Off** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/
-- **med anledning av prop. 2025/26:119 Utveckling av makrotillsynsområdet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023911/
-- **med anledning av prop. 2025/26:118 Tillståndsprövning enligt förnybartdirektivet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023912/
-- **Riksrevisionens rapport om miljöräddning vid stora olyckor till sjöss** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03121/
-- **Frihetsberövande påföljder för barn och unga** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03132/
-- **Extra ändringsbudget för 2026 – Stöd till Ukraina och vaccinberedskap** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03143/
-- **Inhibition av verkställigheten – en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03145/
-- **Remissinstansernas kritik mot kvalificeringskrav till välfärden** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11527/
-- **How to Organize Safely in the Age of Surveillance** (Security Latest, wired.com) — https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/
-- **What it takes to make agentic AI work in retail** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/
-- **Zuckerberg defends Meta in landmark social media addiction trial** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss
-- **Tech firms will have 48 hours to remove abusive images under new law** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss
-- **This Defense Company Made AI Agents That Blow Things Up** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/
-- **Nvidia’s Deal With Meta Signals a New Era in Computing Power** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/
-- **A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft** (Security Latest, wired.com) — https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/
-- **Project Silica’s advances in glass storage technology** (Microsoft Research, microsoft.com) — https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
-- **Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof** (Feed: Artificial Intelligence Latest, wired.com) — https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/
-- **Checkup Time! How Measurement Science Keeps You Healthy** (Taking Measure, nist.gov) — https://www.nist.gov/blogs/taking-measure/checkup-time-how-measurement-science-keeps-you-healthy
-- **Call of Duty advert banned for trivialising sexual violence** (BBC News, bbc.com) — https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss
-- **V&A displays first YouTube video and watchpage** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss
-- **med anledning av prop. 2025/26:106 Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023905/
-- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023906/
-- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023907/
-- **med anledning av prop. 2025/26:118 Tillståndsprövning enligt förnybartdirektivet** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023908/
-- **med anledning av prop. 2025/26:108 Reformering av avfallslagstiftningen för ökad materialåtervinning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023909/
-- **med anledning av prop. 2025/26:106 Identitetskrav vid lagfart och åtgärder mot kringgåenden av bostadsrättslagen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/_hd023910/
-- **Europeiska unionens PDCA-avtal med Kuba** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11521/
-- **Förutsättningar för ökad AI-användning inom offentlig sektor** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11522/
-- **Ölandsbron** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11523/
-- **Palestinska myndighetens nya konstitutionsförslag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11524/
-- **Skatteverket** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11525/
-- **Information om misstänkta sexualbrottslingar** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/_hd11526/
-- **'I do not trust them' - top streamers left concerned by Discord age checks** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss
-- **Tech Life** (BBC News, bbc.co.uk) — https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss
-- **Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure
-- **NIST Releases New Forensic Genetic Reference Material to Help Crime Laboratories Analyze Challenging Cases** (NIST News, nist.gov) — https://www.nist.gov/news-events/news/2026/02/nist-releases-new-forensic-genetic-reference-material-help-crime
-- **Could Bill Gates and political tussles overshadow AI safety debate in Delhi?** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
-- **Riksrevisionens rapport om Polisreformen 2015** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03110/
-- **En ny funktion för operativ krishantering i den finansiella sektorn** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03116/
-- **Föreskrifter om förbud mot användning och innehav av vissa läkemedel för djur** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03120/
-- **Riksrevisionens rapport om statens arbete med underlag och utvärdering inom det klimatpolitiska ramverket** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skrivelse/_hd03122/
-- **Explosiva varor – förbättrade möjligheter till kontroll** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03123/
-- **Uppgiftsskyldighet för vissa e-legitimationsföretag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03126/
-- **Åtgärder mot mervärdesskattebedrägerier** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03128/
-- **Utlämnande av uppgifter ur registret över verkliga huvudmän** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03129/
-- **En ny vapenlag** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03141/
-- **Vice statsminister Ebba Busch deltar i högnivåmöte om AI i Indien** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/vice-statsminister-ebba-busch-deltar-i-hognivamote-om-ai-i-indien/
-- **Reddit's human content wins amid the AI flood** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss
-- **How dark web agent spotted bedroom wall clue to rescue girl from years of harm** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss
-- **New Silent Hill game inspired by tiny fishing village in Fife** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c043n0kl71wo?at_medium=RSS&at_campaign=rss
-- **The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess** (Security Latest, wired.com) — https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/
-- **ByteDance to curb AI video app after Disney legal threat** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss
-- **Nytt statligt inköpssystem för digitala lösningar ska stärka Sveriges digitala suveränitet och gynna mindre företag** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/nytt-statligt-inkopssystem-for-digitala-losningar-ska-starka-sveriges-digitala-suveranitet-och-gynna-mindre-foretag/
-- **We will do battle with AI chatbots as we did with Grok, says Starmer** (BBC News, bbc.com) — https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss
+- **Ukrainas uppbyggnad kräver 588 miljarder dollar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/V6PRlJ/ukrainas-uppbyggnad-kraver-588-miljarder-dollar?utm_medium=rss
+- **Backed by Anthropic, a Super PAC Begins Ad Blitz in Support of A.I. Regulation** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html
+- **AI is McDonald’s. That Will Be Good, Bad, and Catalytic for Civil Rights Advocacy.** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/ai-is-mcdonalds-that-will-be-good-bad-and-catalytic-for-civil-rights-advocacy
+- **Man åtalas för mordförsök på LSS-boende** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vreWap/man-atalas-for-mordforsok-pa-lss-boende?utm_medium=rss
+- **Källor: ”Enorm” lösensumma vid kidnappning** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/bOgMAB/kallor-enorm-losensumma-vid-kidnappning?utm_medium=rss
+- **The Download: Chicago’s surveillance network, and building better bras** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/
+- **Nothing couldn’t wait to show off the Phone 4A** (The Verge, theverge.com) — https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar
+- **Uber launches robotaxi support project to aid AV partners** (The Verge, theverge.com) — https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners
+- **En anhållen efter tillslag mot Hells Angels** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/q61p9g/tillslag-mot-hells-angels-klubbhus?utm_medium=rss
+- **Nej till subvention för fetmaläkemedel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/165PlB/nej-till-subvention-for-fetmalakemedel?utm_medium=rss
+- **Tracking Efforts To Restrict Or Ban Teens from Social Media Across the Globe** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe
+- **Nytt uppdrag ska minska digitalt utanförskap** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/nytt-uppdrag-ska-minska-digitalt-utanforskap/
+- **TV4 efter GW:s ministerutspel: ”Har rätt att uttrycka sig”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/JOxPwJ/tv4-s-svar-efter-leif-gw-s-utspel-om-ministerhoten?utm_medium=rss
+- **EN UNDRAN TILL: Kan makten bildas i mitten?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/podcasts/episode/396690?utm_medium=rss
+- **Tyska spioner får mer makt – tilltron till USA viker** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjxG/tyska-spioner-far-mer-makt-tilltron-till-usa-viker?utm_medium=rss
+- **Regeringen: Invandrare ska kvalificera sig till välfärden** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/43ojJ6/regeringen-invandrare-ska-kvalificera-till-valfarden?utm_medium=rss
+- **Hårdare krav för bidrag till invandrare** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nB7o/hardare-krav-for-bidrag-till-invandrare?utm_medium=rss
+- **How Have Platforms Addressed Addictive Design Under the DSA** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/how-have-platforms-addressed-addictive-design-under-the-dsa
+- **Apparna spelar med din hjärna – därför förlorar du** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/9pzlW5/apparna-spelar-med-din-hjarna-darfor-forlorar-du?utm_medium=rss
+- **Tricken som får oss att fastna i apparna** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/GxMlJq/tricken-som-far-oss-att-fastna-i-apparna?utm_medium=rss
+- **The Challenge of Evaluating AI Products in Healthcare** (Tech Policy Press, techpolicy.press) — https://techpolicy.press/the-challenge-of-evaluating-ai-products-in-healthcare
+- **Polisrazzia mot Hells Angels klubbhus i Åkarp** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p6nL3/tillslag-mot-hells-angels?utm_medium=rss
+- **Porn company fined £1.35m by Ofcom over age check failings** (BBC News, bbc.com) — https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss
+- **Bidrag till skyfallsdrabbade vägar uteblir** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/L4lpaJ/bidrag-till-skyfallsdrabbade-vagar-uteblir?utm_medium=rss
+- **Tabitha, 19, har inte tid att vänta – utvisas om tre veckor** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y54ndJ/tabitha-19-i-vetlanda-har-inte-tid-att-vanta-utvisas-till-uganda-om-tre-veckor?utm_medium=rss
+- **Taara Beam provides 25Gbps connectivity over invisible beams of light** (The Verge, theverge.com) — https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light
+- **How many AIs does it take to read a PDF?** (The Verge, theverge.com) — https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure
+- **Gig workers in Africa have been helping the US military. They had no idea** (Rest of World -, restofworld.org) — https://restofworld.org/2026/gig-workers-us-military-appen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- **TV4 tar GW i försvar** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8nBP6/tv4-tar-gw-i-forsvar?utm_medium=rss
+- **Par döms till fängelse för kändisbedrägerier** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/QJ7RM4/par-doms-till-fangelse-for-kandisbedragerier?utm_medium=rss
+- **Lagrådet sågar förslag om medborgarskap** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y56162/lagradet-sagar-forslag-om-medborgarskap?utm_medium=rss
+- **Sigrid skrev ned varje gång hon blev bältad av psykiatrin** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/y54olx/sigrid-skrev-ned-varje-gang-hon-blev-baltad-av-psykiatrin?utm_medium=rss
+- **Källor: Island folkomröstar om EU i augusti** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjQg/kallor-island-folkomrostar-om-eu-i-augusti?utm_medium=rss
+- **Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html
+- **ICC-åklagare: Duterte godkände mord** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/2pBn3a/icc-inleder-forhandlingar-mot-duterte?utm_medium=rss
+- **‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html
+- **Inside Chicago’s surveillance panopticon** (MIT Technology Review, technologyreview.com) — https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/
+- **Kvalificering till socialförsäkringen** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03136/
+- **Snöröjning på E22** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12508/
+- **Svenska diplomatkopplingar till Jeffrey Epstein** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/_hd12516/
+- **Regeringens proposition med anledning av Miljömålsberedningens betänkande** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10351/
+- **Regeringens krisberedskap för snabbare uppvärmning** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10352/
+- **Skärpta sanktioner vid fall av diskriminering** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10353/
+- **Kompetensförsörjningen av företagsläkare** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10354/
+- **Regeringens uppdrag till Transportstyrelsen gällande färdtjänsten** (Riksdagen - RSS, riksdagen.se) — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/_hd10355/
+- **Amerikanska styrkor drar sig tillbaka från Syrien** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/QJ7RlQ/amerikanska-styrkor-drar-sig-tillbaka-fran-syrien?utm_medium=rss
+- **Chatta: Har du drabbats av OS-blues?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/j0aVRA/chatta-har-du-drabbats-av-os-blues?utm_medium=rss
+- **Stubb: ”Ukraina håller på att vinna kriget”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/rrEvvw/stubb-ukraina-haller-pa-att-vinna-kriget?utm_medium=rss
+- **Vikarie kränktes med apljud och n-ordet** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7pd9WW/vikarie-kranktes-med-apljud-och-n-ordet?utm_medium=rss
+- **Flera döda i busskrasch i Nepal** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LxlE/flera-doda-i-busskrasch-i-nepal?utm_medium=rss
+- **EU:s utrikesministrar träffar Trumps "fredsråd"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/K8zE2e/eu-s-utrikesministrar-traffar-trumps-fredsrad?utm_medium=rss
+- **Nya migrationssmällen: Tech-entreprenörer ratar Sverige** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LBMM/nya-migrationssmallen-tech-entreprenorer-ratar-sverige?utm_medium=rss
+- **Civilministern reser till Örebro och Odensbacken** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/civilministern-reser-till-orebro-och-odensbacken/
+- **Lista: De patientfarliga mottagningarna som stoppats** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p54OW/lista-vardgivarna-som-stoppats-av-ivo?utm_medium=rss
+- **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
+- **Sändebudet till Grönlands regeringschef: ”Skäms!”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/437nxo/sandebudet-till-gronlands-regeringschef-skams?utm_medium=rss
+- **Gamla djur och få ungar – djurparkers svåra problem** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/Wvj4Jd/gamla-djur-och-fa-ungar-djurparkers-svara-problem?utm_medium=rss
+- **Utrikesministern om Ungerns hot: "En skamfläck"** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LxEo/ungern-hotar-stjalpa-sanktioner-och-ukrainastod?utm_medium=rss
+- **Epistemic Traps: Rational Misalignment Driven by Model Misspecification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17676
+- **Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17826
+- **The Token Games: Evaluating Language Model Reasoning with Puzzle Duels** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17831
+- **El Agente Gr\'afico: Structured Execution Graphs for Scientific Agents** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17902
+- **Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17910
+- **WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17990
+- **Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18025
+- **Neurosymbolic Language Reasoning as Satisfiability Modulo Theory** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18095
+- **SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18201
+- **Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18291
+- **Trojans in Artificial Intelligence (TrojAI) Final Report** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.07152
+- **AI Hallucination from Students' Perspective: A Thematic Analysis** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17671
+- **Assessing LLM Response Quality in the Context of Technology-Facilitated Abuse** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17672
+- **Mind the Boundary: Stabilizing Gemini Enterprise A2A via a Cloud Run Hub Across Projects and Accounts** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17675
+- **CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17684
+- **Curriculum Learning for Efficient Chain-of-Thought Distillation via Structure-Aware Masking and GRPO** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17686
+- **IRPAPERS: A Visual Document Benchmark for Scientific Retrieval and Question Answering** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17687
+- **Robust Pre-Training of Medical Vision-and-Language Models with Domain-Invariant Multi-Modal Masked Reconstruction** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17689
+- **DesignAsCode: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17690
+- **Agentic Unlearning: When LLM Agent Meets Machine Unlearning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17692
+- **A Case Study of Selected PTQ Baselines for Reasoning LLMs on Ascend NPU** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17693
+- **AsynDBT: Asynchronous Distributed Bilevel Tuning for efficient In-Context Learning with Large Language Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17694
+- **EXACT: Explicit Attribute-Guided Decoding-Time Personalization** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17695
+- **Can LLM Safety Be Ensured by Constraining Parameter Regions?** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17696
+- **ScaleBITS: Scalable Bitwidth Search for Hardware-Aligned Mixed-Precision LLMs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17698
+- **MIDAS: Mosaic Input-Specific Differentiable Architecture Search** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17700
+- **UBio-MolFM: A Universal Molecular Foundation Model for Bio-Systems** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17709
+- **"Everyone's using it, but no one is allowed to talk about it": College Students' Experiences Navigating the Higher Education Environment in a Generative AI World** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17720
+- **Stop Saying "AI"** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17729
+- **Five Fatal Assumptions: Why T-Shirt Sizing Systematically Fails for AI Projects** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17734
+- **GeneZip: Region-Aware Compression for Long Context DNA Modeling** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17739
+- **Detection and Classification of Cetacean Echolocation Clicks using Image-based Object Detection Methods applied to Advanced Wavelet-based Transformations** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17749
+- **Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17750
+- **Investigating Target Class Influence on Neural Network Compressibility for Energy-Autonomous Avian Monitoring** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17751
+- **The 2025 AI Agent Index: Documenting Technical and Safety Features of Deployed Agentic AI Systems** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17753
+- **QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17784
+- **Deep Learning for Dermatology: An Innovative Framework for Approaching Precise Skin Cancer Detection** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17797
+- **Mind the Style: Impact of Communication Style on Human-Chatbot Interaction** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17850
+- **Enhancing Scientific Literature Chatbots with Retrieval-Augmented Generation: A Performance Evaluation of Vector and Graph-Based Systems** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17856
+- **Financial time series augmentation using transformer based GAN architecture** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17865
+- **MantisV2: Closing the Zero-Shot Gap in Time Series Classification with Synthetic Data and Test-Time Strategies** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17868
+- **Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17871
+- **MultiVer: Zero-Shot Multi-Agent Vulnerability Detection** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17875
+- **Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17881
+- **Machine Learning Based Prediction of Surgical Outcomes in Chronic Rhinosinusitis from Clinical Data** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17888
+- **Games That Teach, Chats That Convince: Comparing Interactive and Static Formats for Persuasive Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17905
+- **Improving Neural Topic Modeling with Semantically-Grounded Soft Label Distributions** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17907
+- **Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17911
+- **From Lossy to Verified: A Provenance-Aware Tiered Memory for Agents** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17913
+- **MIRA: Memory-Integrated Reinforcement Learning Agent with Limited LLM Guidance** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17930
+- **Memory-Based Advantage Shaping for LLM-Guided Reinforcement Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17931
+- **Causal Neighbourhood Learning for Invariant Graph Representations** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17934
+- **Optimizing Graph Causal Classification Models: Estimating Causal Effects and Addressing Confounders** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17941
+- **CUICurate: A GraphRAG-based Framework for Automated Clinical Concept Curation for NLP applications** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17949
+- **ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17951
+- **PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17973
+- **In-Context Learning for Pure Exploration in Continuous Spaces** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17976
+- **Learning Optimal and Sample-Efficient Decision Policies with Guarantees** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17978
+- **Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17993
+- **PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17998
+- **Aurora: Neuro-Symbolic AI Driven Advising Agent** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17999
+- **NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18008
+- **Flow Actor-Critic for Offline Reinforcement Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18015
+- **DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18019
+- **Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18022
+- **Mean-Field Reinforcement Learning without Synchrony** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18026
+- **Towards More Standardized AI Evaluation: From Models to Agents** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18029
+- **Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18037
+- **Conformal Tradeoffs: Guarantees Beyond Coverage** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18045
+- **HiAER-Spike Software-Hardware Reconfigurable Platform for Event-Driven Neuromorphic Computing at Scale** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18072
+- **DohaScript: A Large-Scale Multi-Writer Dataset for Continuous Handwritten Hindi Text** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18089
+- **Perceived Political Bias in LLMs Reduces Persuasive Abilities** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18092
+- **OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18094
+- **MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18104
+- **Cut Less, Fold More: Model Compression through the Lens of Projection Geometry** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18116
+- **Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18117
+- **RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18119
+- **Agentic Adversarial QA for Improving Domain-Specific LLMs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18137
+- **FENCE: A Financial and Multimodal Jailbreak Detection Dataset** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18154
+- **Click it or Leave it: Detecting and Spoiling Clickbait with Informativeness Measures and Large Language Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18171
+- **Can AI Lower the Barrier to Cybersecurity? A Human-Centered Mixed-Methods Study of Novice CTF Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18172
+- **Capabilities Ain't All You Need: Measuring Propensities in AI** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18182
+- **LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18195
+- **[Re] Benchmarking LLM Capabilities in Negotiation through Scoreable Games** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18230
+- **Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18232
+- **On the Adversarial Robustness of Discrete Image Tokenizers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18252
+- **Simplifying Outcomes of Language Model Component Analyses with ELIA** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18262
+- **PRISM: Parallel Reward Integration with Symmetry for MORL** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18277
+- **HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18283
+- **Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18292
+- **Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18297
+- **JPmHC Dynamical Isometry via Orthogonal Hyper-Connections** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18308
+- **Robo-Saber: Generating and Simulating Virtual Reality Players** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18319
+- **Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18346
+- **Validating Political Position Predictions of Arguments** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18351
+- **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18372
+- **Zero-shot Interactive Perception** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18374
+- **FedZMG: Efficient Client-Side Optimization in Federated Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18384
+- **Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18386
+- **Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18401
+- **Unifying approach to uniform expressivity of graph neural networks** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18409
+- **Governance of Generative Artificial Intelligence for Companies** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2403.08802
+- **Causal Explanations for Image Classifiers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2411.08875
+- **Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.25860
+- **The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.26752
+- **Adaptive GR(1) Specification Repair for Liveness-Preserving Shielding in Reinforcement Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2511.02605
+- **Two Constraint Compilation Methods for Lifted Planning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2511.10164
+- **A Neuromorphic Architecture for Scalable Event-Based Control** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2511.11924
+- **AI Epidemiology: achieving explainable AI through expert oversight patterns** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2512.15783
+- **SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2512.24008
+- **The AI Pyramid A Conceptual Framework for Workforce Capability in the Age of AI** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.06500
+- **Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.09282
+- **Benchmarking at the Edge of Comprehension** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.14307
+- **EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.16179
+- **Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.16653
+- **LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.16902
+- **RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17053
+- **Pareto Optimal Benchmarking of AI Models on ARM Cortex Processors for Sustainable Embedded Systems** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17508
+- **ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2310.01331
+- **Beyond Mimicry to Contextual Guidance: Knowledge Distillation for Interactive AI** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2408.07238
+- **Expressiveness of Multi-Neuron Convex Relaxations in Neural Network Certification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2410.06816
+- **TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2412.11471
+- **An AI-powered Bayesian generative modeling approach for causal inference in observational studies** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2501.00755
+- **Imitating AI agents increase diversity in homogeneous information environments but can reduce it in heterogeneous ones** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2503.16021
+- **CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2503.18980
+- **Overcoming Sparsity Artifacts in Crosscoders to Interpret Chat-Tuning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2504.02922
+- **FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2504.17311
+- **ConformalNL2LTL: Translating Natural Language Instructions into Temporal Logic Formulas with Conformal Correctness Guarantees** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2504.21022
+- **Visual Planning: Let's Think Only with Images** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2505.11409
+- **Multi-View Wireless Sensing via Conditional Generative Learning: Framework and Model Design** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2505.12664
+- **Synthetic History: Evaluating Visual Representations of the Past in Diffusion Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2505.17064
+- **PonderLM: Pretraining Language Models to Ponder in Continuous Space** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2505.20674
+- **J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2506.15316
+- **Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2506.22095
+- **Anthropomimetic Uncertainty: What Verbalized Uncertainty in Language Models is Missing** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2507.10587
+- **Landmark Detection for Medical Images using a General-purpose Segmentation Model** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2507.11551
+- **ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2507.18031
+- **Decomposing Representation Space into Interpretable Subspaces with Unsupervised Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2508.01916
+- **Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2508.04581
+- **A Novel Method to Determine Total Oxidant Concentration Produced by Non-Thermal Plasma Based on Image Processing and Machine Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.00479
+- **Individualized and Interpretable Sleep Forecasting via a Two-Stage Adaptive Spatial-Temporal Model** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.06974
+- **Physics-Informed Neural Networks vs. Physics Models for Non-Invasive Glucose Monitoring: A Comparative Study Under Noise-Stressed Synthetic Conditions** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.12253
+- **GRPO is Secretly a Process Reward Model** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.21154
+- **Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.22458
+- **Toward a Holistic Approach to Continual Model Merging** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2509.23592
+- **Smartphone-based iris recognition through high-quality visible-spectrum iris image capture.V2** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.06170
+- **Gradient-Sign Masking for Task Vector Transport Across Pre-Trained Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.09658
+- **Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.13887
+- **Study of Training Dynamics for Memory-Constrained Fine-Tuning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2510.19675
+- **FATE: A Formal Benchmark Series for Frontier Algebra of Multiple Difficulty Levels** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2511.02872
+- **Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2511.18721
+- **Cross-Lingual Interleaving for Speech Language Models** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2512.01865
+- **Group Representational Position Encoding** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2512.07805
+- **Beyond Homophily: Community Search on Heterophilic Graphs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.01703
+- **The Invisible Hand of AI Libraries Shaping Open Source Projects and Communities** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.01944
+- **Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.10160
+- **AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.10161
+- **One Token Is Enough: Improving Diffusion Language Models with a Sink Token** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2601.19657
+- **TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.00288
+- **CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.01844
+- **UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.02437
+- **Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.03875
+- **VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.04587
+- **Temporal Pair Consistency for Variance-Reduced Flow Matching** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.04908
+- **Investigating Writing Professionals' Relationships with Generative AI: How Combined Perceptions of Rivalry and Collaboration Shape Work Practices and Outcomes** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.08227
+- **Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.13314
+- **LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.13662
+- **GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.14201
+- **LongAudio-RAG: Event-Grounded Question Answering over Multi-Hour Long Audio** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.14612
+- **CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.15060
+- **FedPSA: Modeling Behavioral Staleness in Asynchronous Federated Learning** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.15337
+- **Decoupling Strategy and Execution in Task-Focused Dialogue via Goal-Oriented Preference Optimization** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.15854
+- **Anatomy of Capability Emergence: Scale-Invariant Representation Collapse and Top-Down Reorganization in Neural Networks** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.15997
+- **MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.16898
+- **Wink: Recovering from Misbehaviors in Coding Agents** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17037
+- **Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17677
+- **Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17679
+- **BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning with LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17680
+- **LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17681
+- **Duality Models: An Embarrassingly Simple One-step Generation Paradigm** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17682
+- **Probabilistic NDVI Forecasting from Sparse Satellite Time Series and Weather Covariates** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17683
+- **Optimal Multi-Debris Mission Planning in LEO: A Deep Reinforcement Learning Approach with Co-Elliptic Transfers and Refueling** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17685
+- **AnCoder: Anchored Code Generation via Discrete Diffusion Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17688
+- **Tethered Reasoning: Decoupling Entropy from Hallucination in Quantized LLMs via Manifold Steering** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17691
+- **Pimp My LLM: Leveraging Variability Modeling to Tune Inference Hyperparameters** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17697
+- **Certified Learning under Distribution Shift: Sound Verification and Identifiable Structure** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17699
+- **Parallel Complex Diffusion for Scalable Time Series Generation** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17706
+- **Provable Adversarial Robustness in In-Context Learning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17743
+- **Bayesian Optimality of In-Context Learning with Selective State Spaces** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17744
+- **Asking Forever: Universal Activations Behind Turn Amplification in Conversational LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17778
+- **Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17783
+- **Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17798
+- **Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17809
+- **Avoid What You Know: Divergent Trajectory Balance for GFlowNets** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17827
+- **Causality by Abstraction: Symbolic Rule Learning in Multivariate Timeseries with Large Language Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17829
+- **MePoly: Max Entropy Polynomial Policy Optimization** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17832
+- **Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-tuning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17835
+- **Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17846
+- **Dual Length Codes for Lossless Compression of BFloat16** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17849
+- **Neural Prior Estimation: Learning Class Priors from Latent Representations** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17853
+- **JAX-Privacy: A library for differentially private machine learning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17861
+- **ADAPT: Hybrid Prompt Optimization for LLM Feature Visualization** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17867
+- **COMBA: Cross Batch Aggregation for Learning Large Graphs with Context Gating State Space Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17893
+- **Breaking the Correlation Plateau: On the Optimization and Capacity Limits of Attention-Based Regressors** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17898
+- **Distribution-Free Sequential Prediction with Abstentions** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17918
+- **Tighter Regret Lower Bound for Gaussian Process Bandits with Squared Exponential Kernel in Hypersphere** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17940
+- **Understanding the Generalization of Bilevel Programming in Hyperparameter Optimization: A Tale of Bias-Variance Decomposition** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17947
+- **A Geometric Probe of the Accuracy-Robustness Trade-off: Sharp Boundaries in Symmetry-Breaking Dimensional Expansion** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17948
+- **Hardware-Friendly Input Expansion for Accelerating Function Approximation** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17952
+- **Bayesian Online Model Selection** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17958
+- **Improving Generalizability of Hip Fracture Risk Prediction via Domain Adaptation Across Multiple Cohorts** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17962
+- **Student Flow Modeling for School Decongestion via Stochastic Gravity Estimation and Constrained Spatial Allocation** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17972
+- **Generating adversarial inputs for a graph neural network model of AC power flow** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17975
+- **Learning Without Training** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17985
+- **Whole-Brain Connectomic Graph Model Enables Whole-Body Locomotion Control in Fruit Fly** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17997
+- **Asynchronous Heavy-Tailed Optimization** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18002
+- **Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18055
+- **Deepmechanics** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18060
+- **Balancing Symmetry and Efficiency in Graph Flow Matching** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18084
+- **TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18109
+- **Non-Stationary Online Resource Allocation: Learning from a Single Sample** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18114
+- **Learning Long-Range Dependencies with Temporal Predictive Coding** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18131
+- **Advection-Diffusion on Graphs: A Bakry-Emery Laplacian for Spectral Graph Neural Networks** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18141
+- **Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18146
+- **Unifying Formal Explanations: A Complexity-Theoretic Perspective** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18160
+- **A Deep Surrogate Model for Robust and Generalizable Long-Term Blast Wave Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18168
+- **SeedFlood: A Step Toward Scalable Decentralized Training of LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18181
+- **RAT+: Train Dense, Infer Sparse -- Recurrence Augmented Attention for Dilated Inference** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18196
+- **Generative Model via Quantile Assignment** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18216
+- **Parameter-Efficient Domain Adaptation of Physics-Informed Self-Attention based GNNs for AC Power Flow Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18227
+- **Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18248
+- **Variational Distributional Neuron** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18250
+- **MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18253
+- **A Probabilistic Framework for LLM-Based Model Discovery** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18266
+- **On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18301
+- **On the "Induction Bias" in Sequence Models** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18333
+- **Explaining AutoClustering: Uncovering Meta-Feature Contribution in AutoML for Clustering** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18348
+- **PRISM-FCP: Byzantine-Resilient Federated Conformal Prediction via Partial Sharing** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18396
+- **Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18403
+- **Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18417
+- **The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18428
+- **Assigning Confidence: K-partition Ensembles** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18435

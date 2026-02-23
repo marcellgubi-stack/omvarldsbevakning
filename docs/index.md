@@ -1,32 +1,46 @@
-_Uppdaterad: 2026-02-22_
+_Uppdaterad: 2026-02-23_
 
 ## TL;DR
-- Sveriges regering lanserar en ny AI-strategi för att bli en ledande aktör inom AI.
-- Rapport om medieautenticitet belyser hur viktigt det är med trovärdiga informationskällor.
-- Dilemmata kring AI:s påverkan på säkerhet och etik fortsätter att diskuteras i media.
+- AI:s integration inom olika sektorer påverkar beslut och säkerhet.
+- Diskussioner om AI:s påverkan på civilrätt och samhällsfunktioner intensifieras.
+- Ökat fokus på reglering och säkerhet kring AI-teknologier.
 
 ## Viktigaste teman
-- Utveckling av AI-strategier och säkerhet.
-- Betydelsen av medieautenticitet och innehållsverifiering.
-- Ökande behov av reglering inom AI och teknik.
+- Risker med AI och etik
+- Behoven av reglering och policy kring AI
+- Digitalt utanförskap och inkludering i en AI-driven värld
 
 ## Utvalda länkar
-- **Sveriges första heltäckande AI-strategi ska ge en topp tio-placering** – Regeringen presenterar sin AI-strategi för att öka Sveriges globalt konkurrenskraft inom AI. (regeringen.se) [Läs mer här](https://www.regeringen.se/pressmeddelanden/2026/02/sveriges-forsta-heltackande-ai-strategi-ska-ge-en-topp-tio-placering/)
+**Epistemic Traps: Rational Misalignment Driven by Model Misspecification** – En undersökning av AI-modeller och deras beteendemönster som kan påverka samhällsfunktioner. (arxiv.org) [länk](https://arxiv.org/abs/2602.17676)
 
-- **Tumbler Ridge suspect's ChatGPT account banned before shooting** – Diskussion kring hur AI-plattformar kan hantera användardata och säkerhet. (bbc.com) [Läs mer här](https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss)
+**AI is McDonald’s. That Will Be Good, Bad, and Catalytic for Civil Rights Advocacy.** – Artikeln kopplar samman AI:s påverkan med rättighetsfrågor och ledarskap. (techpolicy.press) [länk](https://techpolicy.press/ai-is-mcdonalds-that-will-be-good-bad-and-catalytic-for-civil-rights-advocacy)
 
-- **Exclusive eBook: The great AI hype correction of 2025** – En insiktsfull analys av överdriven hype inom AI-sektorn och vad det innebär för framtiden. (technologyreview.com) [Läs mer här](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/)
+**Backed by Anthropic, a Super PAC Begins Ad Blitz in Support of A.I. Regulation** – Nyheter om hur politiska initiativ formar AI-reglering. (nytimes.com) [länk](https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html)
 
-- **Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions** – Viktig rapport om verifiering av innehåll i en tid av syntetisk media och desinformation. (microsoft.com) [Läs mer här](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)
+**Nytt uppdrag ska minska digitalt utanförskap** – Den svenska regeringen tar steg för att öka digital kompetens och inkludering i samhället. (regeringen.se) [länk](https://www.regeringen.se/pressmeddelanden/2026/02/nytt-uppdrag-ska-minska-digitalt-utanforskap/)
 
-- **America desperately needs new privacy laws** – Reflektioner kring behovet av ny lagstiftning för att skydda individer i en AI-driven värld. (theverge.com) [Läs mer här](https://www.theverge.com/column/882516/privacy-laws-america)
+**CERT-SE:s veckobrev v.8** – Fokus på angrepp mot kritiska system och cybersäkerhet inom AI. (cert.se) [länk](https://www.cert.se/2026/02/cert-se-veckobrev-v8.html)
+
+**Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions** – En studie av autentiseringsmetoder för att hantera syntetisk media och dess utmaningar. (microsoft.com) [länk](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)
+
+**Nytt frånvaroregister ska spara miljoner – kan drabba skolsociala team** – Betydelsen av digitala verktyg för att hantera sociala frågor inom utbildning. (svt.se) [länk](https://www.svt.se/nyheter/lokalt/vast/nytt-franvaroregister-ska-spara-miljoner-elever-kan-forlora-skolsociala-team)
+
+**Kvalificering till socialförsäkringen** – Hur AI-teknologi kan påverka socialförsäkringssystemet i Sverige. (riksdagen.se) [länk](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/_hd03136/)
+
+**Gig workers in Africa have been helping the US military. They had no idea** – En utforskning av hur globala AI-initiativ påverkar arbetsmarknaden. (restofworld.org) [länk](https://restofworld.org/2026/gig-workers-us-military-appen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
 
 ## Alla källor
-- Riksdagen - RSS
-- BBC News
-- Feed: Artificial Intelligence Latest
-- The Verge
-- MIT Technology Review
-- RSS - Regeringen.se
-- NIST News
-- Microsoft Research
+- arxiv.org
+- riksdagen.se
+- aftonbladet.se
+- techpolicy.press
+- bbc.com
+- svt.se
+- wired.com
+- nytimes.com
+- technologyreview.com
+- restofworld.org
+- regeringen.se
+- nist.gov
+- cert.se
+- microsoft.com
