@@ -54,3 +54,31 @@ https://www.cert.se/feed/atom.xml
 
 # NYT tech (bra för “AI i samhället”-grejer som NomoFomo plockar upp)
 https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+# --- Global mix: policy / governance / demokrati / rätt ---
+https://www.techpolicy.press/rss/feed.xml
+https://www.lawfaremedia.org/feeds/articles
+https://www.lawfaremedia.org/feeds/cybersecurity-tech
+https://www.eff.org/rss/updates.xml
+
+# --- Myndigheter/regulatorer (AI + konkurrens + integritet) ---
+https://www.ftc.gov/feeds/press-release.xml
+https://www.edps.europa.eu/feed/news_en
+https://edpb.europa.eu/feed/news_en
+
+# --- Think tanks / analys (bra “styrning & geopol” utan hype) ---
+https://www.rand.org/pubs/new.xml
+https://www.rand.org/pubs/commentary.xml
+https://www.rand.org/news/press.xml
+
+# --- Global “utanför väst-bubblan” (arbetsliv/plattformsekonomi) ---
+https://restofworld.org/feed/latest/
+https://restofworld.org/feed/labor/
+https://restofworld.org/feed/platform-economy/
+
+# --- Cyber/incident-signal (stöd till AI-risk & säkerhet) ---
+https://api.msrc.microsoft.com/update-guide/rss
+https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+https://netblocks.org/feed
+https://www.mandiant.com/resources/blog/rss.xml
+https://www.cert.se/feed/atom.xml
