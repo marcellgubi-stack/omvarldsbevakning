@@ -24,14 +24,16 @@ _Uppdaterad: 2026-02-23_
 - **nist.gov** — 5
 - **cert.se** — 4
 - **cloud.google.com** — 3
+- **lawfaremedia.org** — 2
 - **microsoft.com** — 2
-- **lawfaremedia.org** — 1
 - **ncsc.gov.uk** — 1
 
 ## Alla länkar (urval)
 
 Visar upp till 300 länkar som samlades in (efter dedupe).
 
+- **CHATT: Hur minns du Birgitta Andersson?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/oEnRvR/chatt-hur-minns-du-birgitta-andersson?utm_medium=rss
+- **Can a President Unilaterally Withdraw—and Rejoin—the UN Climate Treaty?** (Articles, lawfaremedia.org) — https://www.lawfaremedia.org/article/can-a-president-unilaterally-withdraw-and-rejoin-the-un-climate-treaty
 - **Drama på ubåt – timmarna före Trumps utspel** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/xr81Kl/trump-psykar-gronland-marklig-detalj-fore-utspelet?utm_medium=rss
 - **Utredning om Trump får inte offentliggöras** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/vremkl/utredning-om-trump-far-inte-offentliggoras?utm_medium=rss
 - **People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.** (NYT > Technology, nytimes.com) — https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html
@@ -52,7 +54,7 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Uppdrag till Socialstyrelsen att ta fram metodstöd till hälso- och sjukvården i arbetet med att förebygga, bedöma och hantera patienters risk för att skada andra** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/regeringsuppdrag/2026/02/uppdrag-till-socialstyrelsen-att-ta-fram-metodstod-till-halso--och-sjukvarden-i-arbetet-med-att-forebygga-bedoma-och-hantera-patienters-risk-for-att-skada-andra/
 - **Nytt uppdrag ska minska digitalt utanförskap** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/nytt-uppdrag-ska-minska-digitalt-utanforskap/
 - **Uppdrag till Inspektionen för vård och omsorg att granska arbetet med riskbedömningar avseende framtida benägenhet att begå våldsbrott i samhället** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/regeringsuppdrag/2026/02/uppdrag-till-inspektionen-for-vard-och-omsorg-att-granska-arbetet-med-riskbedomningar-avseende-framtida-benagenhet-att-bega-valdsbrott-i-samhallet/
-- **TV4 efter GW:s ministerutspel: ”Har rätt att uttrycka sig”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/JOxPwJ/tv4-s-svar-efter-leif-gw-s-utspel-om-ministerhoten?utm_medium=rss
+- **TV4 efter GW:s minister­utspel: ”Har rätt att uttrycka sig”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/JOxPwJ/tv4-s-svar-efter-leif-gw-s-utspel-om-ministerhoten?utm_medium=rss
 - **EN UNDRAN TILL: Kan makten bildas i mitten?** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/podcasts/episode/396690?utm_medium=rss
 - **Tyska spioner får mer makt – tilltron till USA viker** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/0pQjxG/tyska-spioner-far-mer-makt-tilltron-till-usa-viker?utm_medium=rss
 - **Regeringen: Invandrare ska kvalificera sig till välfärden** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/43ojJ6/regeringen-invandrare-ska-kvalificera-till-valfarden?utm_medium=rss
@@ -101,7 +103,6 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Nya migrationssmällen: Tech-entreprenörer ratar Sverige** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/M7LBMM/nya-migrationssmallen-tech-entreprenorer-ratar-sverige?utm_medium=rss
 - **Civilministern reser till Örebro och Odensbacken** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/civilministern-reser-till-orebro-och-odensbacken/
 - **Lista: De patientfarliga mottagningarna som stoppats** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/7p54OW/lista-vardgivarna-som-stoppats-av-ivo?utm_medium=rss
-- **Sändebudet till Grönlands regeringschef: ”Skäms!”** (Senaste nytt – nyheter från Aftonbladet, aftonbladet.se) — https://www.aftonbladet.se/nyheter/a/437nxo/sandebudet-till-gronlands-regeringschef-skams?utm_medium=rss
 - **Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/utrikesminister-maria-malmer-stenergard-deltar-i-eus-utrikesministermote/
 - **Pressträff om kvalificering till socialförsäkringen** (RSS - Regeringen.se, regeringen.se) — https://www.regeringen.se/pressmeddelanden/2026/02/presstraff-om-kvalificering-till-socialforsakringen/
 - **Epistemic Traps: Rational Misalignment Driven by Model Misspecification** (cs.AI updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.17676
@@ -331,4 +332,3 @@ Visar upp till 300 länkar som samlades in (efter dedupe).
 - **Unifying Formal Explanations: A Complexity-Theoretic Perspective** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18160
 - **A Deep Surrogate Model for Robust and Generalizable Long-Term Blast Wave Prediction** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18168
 - **SeedFlood: A Step Toward Scalable Decentralized Training of LLMs** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18181
-- **RAT+: Train Dense, Infer Sparse -- Recurrence Augmented Attention for Dilated Inference** (cs.LG updates on arXiv.org, arxiv.org) — https://arxiv.org/abs/2602.18196
