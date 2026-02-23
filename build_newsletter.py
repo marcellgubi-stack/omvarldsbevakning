@@ -13,7 +13,7 @@ from dateutil import tz
 # =========================
 # INSTÄLLNINGAR
 # =========================
-DAYS_BACK = 7
+DAYS_BACK = 14
 MAX_ITEMS_TO_AI = 40          # hur många (diversifierade) länkar vi skickar till AI
 MAX_PER_DOMAIN = 1            # hård gräns: max länkar per domän in i AI
 MAX_SOURCE_LIST = 300         # hur många länkar vi listar på sources-sidan
