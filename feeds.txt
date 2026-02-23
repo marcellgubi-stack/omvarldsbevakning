@@ -32,3 +32,25 @@ https://www.wired.com/feed/category/security/latest/rss
 https://feeds.bbci.co.uk/news/technology/rss.xml
 
 https://www.regeringen.se/Filter/RssFeed?filterType=Taxonomy&filterByType=FilterablePageBase&preFilteredCategories=1284%2C1285%2C1286%2C1287%2C1288%2C1290%2C1291%2C1292%2C1293%2C1294%2C1295%2C1296%2C1297%2C2425&rootPageReference=0&filteredContentCategories=2097%2C1333%2C1339%2C1334%2C1341&filteredPoliticalLevelCategories=&filteredPoliticalAreaCategories=1238%2C2282&filteredPublisherCategories=
+
+# --- NomoFomo (kuratorn själv) ---
+https://nomofomo.substack.com/feed
+
+# --- Källor som NomoFomo ofta länkar till ---
+# Tech policy / democracy
+https://techpolicy.press/rss/feed.xml
+
+# Svenska nyheter (Aftonbladet har officiella RSS-länkar)
+https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/
+
+# Global tech utanför "väst-bubblan"
+https://restofworld.org/feed/latest/
+
+# Svensk public service (regionalt exempel som är bekräftat)
+https://www.svt.se/nyheter/lokalt/vast/rss.xml
+
+# Svensk cybersäkerhet (officiell feed)
+https://www.cert.se/feed/atom.xml
+
+# NYT tech (bra för “AI i samhället”-grejer som NomoFomo plockar upp)
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
